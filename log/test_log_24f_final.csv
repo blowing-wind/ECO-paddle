@@ -1,12 +1,24 @@
 Test batch_id:20 | acc 1.0 | avg acc:0.9125
-Test batch_id:40 | acc 1.0 | avg acc:0.921875
-Test batch_id:60 | acc 0.8125 | avg acc:0.921875
-Test batch_id:80 | acc 0.875 | avg acc:0.92265625
-Test batch_id:100 | acc 0.9375 | avg acc:0.919375
-Test batch_id:120 | acc 1.0 | avg acc:0.9255208333333333
-Test batch_id:140 | acc 1.0 | avg acc:0.9267857142857143
-Test batch_id:160 | acc 0.8125 | avg acc:0.925
-Test batch_id:180 | acc 0.8125 | avg acc:0.9243055555555556
-Test batch_id:200 | acc 0.75 | avg acc:0.9221875
-Test batch_id:220 | acc 1.0 | avg acc:0.9230113636363636
-Test Avg acc:0.9210805084745762
+Test batch_id:40 | acc 0.625 | avg acc:0.921875
+Test batch_id:60 | acc 0.875 | avg acc:0.925
+Test batch_id:80 | acc 0.625 | avg acc:0.921875
+Test batch_id:100 | acc 1.0 | avg acc:0.91875
+Test batch_id:120 | acc 1.0 | avg acc:0.9197916666666667
+Test batch_id:140 | acc 1.0 | avg acc:0.9178571428571428
+Test batch_id:160 | acc 1.0 | avg acc:0.92265625
+Test batch_id:180 | acc 0.875 | avg acc:0.925
+Test batch_id:200 | acc 0.875 | avg acc:0.926875
+Test batch_id:220 | acc 1.0 | avg acc:0.9272727272727272
+Test batch_id:240 | acc 0.75 | avg acc:0.9260416666666667
+Test batch_id:260 | acc 0.875 | avg acc:0.9240384615384616
+Test batch_id:280 | acc 1.0 | avg acc:0.9254464285714286
+Test batch_id:300 | acc 1.0 | avg acc:0.9229166666666667
+Test batch_id:320 | acc 1.0 | avg acc:0.92421875
+Test batch_id:340 | acc 0.875 | avg acc:0.924264705882353
+Test batch_id:360 | acc 0.875 | avg acc:0.9246527777777778
+Test batch_id:380 | acc 0.875 | avg acc:0.9233552631578947
+Test batch_id:400 | acc 1.0 | avg acc:0.9234375
+Test batch_id:420 | acc 0.875 | avg acc:0.9223214285714286
+Test batch_id:440 | acc 0.875 | avg acc:0.9224431818181819
+Test batch_id:460 | acc 0.75 | avg acc:0.9233695652173913
+Test Avg acc:0.9226694915254238
