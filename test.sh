@@ -1,0 +1,1 @@
+python inference.py ucf101 RGB data/UCF-101/val.list --num_segments 24 --arch ECOfull --load_path checkpoint/ECO_full_model_24f_final.pdparams --log_path log/test_log_24f_final.csv

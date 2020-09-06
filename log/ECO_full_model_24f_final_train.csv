@@ -1,0 +1,1282 @@
+Epoch: 0 batch_id:20 lr:0.001000 Train Avg loss:4.526030, Avg acc:0.075000
+Epoch: 0 batch_id:40 lr:0.001000 Train Avg loss:4.065937, Avg acc:0.143750
+Epoch: 0 batch_id:60 lr:0.001000 Train Avg loss:3.636371, Avg acc:0.235417
+Epoch: 0 batch_id:80 lr:0.001000 Train Avg loss:3.338556, Avg acc:0.289062
+Epoch: 0 batch_id:100 lr:0.001000 Train Avg loss:3.056849, Avg acc:0.350000
+Epoch: 0 batch_id:120 lr:0.001000 Train Avg loss:2.823244, Avg acc:0.400000
+Epoch: 0 batch_id:140 lr:0.001000 Train Avg loss:2.638538, Avg acc:0.438839
+Epoch: 0 batch_id:160 lr:0.001000 Train Avg loss:2.486026, Avg acc:0.469531
+Epoch: 0 batch_id:180 lr:0.001000 Train Avg loss:2.334906, Avg acc:0.498958
+Epoch: 0 batch_id:200 lr:0.001000 Train Avg loss:2.220677, Avg acc:0.517813
+Epoch: 0 batch_id:220 lr:0.001000 Train Avg loss:2.096057, Avg acc:0.543750
+Epoch: 0 batch_id:240 lr:0.001000 Train Avg loss:1.985179, Avg acc:0.568750
+Epoch: 0 batch_id:260 lr:0.001000 Train Avg loss:1.894384, Avg acc:0.588702
+Epoch: 0 batch_id:280 lr:0.001000 Train Avg loss:1.813366, Avg acc:0.605357
+Epoch: 0 batch_id:300 lr:0.001000 Train Avg loss:1.740055, Avg acc:0.620833
+Epoch: 0 batch_id:320 lr:0.001000 Train Avg loss:1.670171, Avg acc:0.636133
+Epoch: 0 batch_id:340 lr:0.001000 Train Avg loss:1.607476, Avg acc:0.650368
+Epoch: 0 batch_id:360 lr:0.001000 Train Avg loss:1.553756, Avg acc:0.663021
+Epoch: 0 batch_id:380 lr:0.001000 Train Avg loss:1.500788, Avg acc:0.674836
+Epoch: 0 batch_id:400 lr:0.001000 Train Avg loss:1.457853, Avg acc:0.683281
+Epoch: 0 batch_id:420 lr:0.001000 Train Avg loss:1.415240, Avg acc:0.691220
+Epoch: 0 batch_id:440 lr:0.001000 Train Avg loss:1.374524, Avg acc:0.699716
+Epoch: 0 batch_id:460 lr:0.001000 Train Avg loss:1.336443, Avg acc:0.708288
+Epoch: 0 batch_id:480 lr:0.001000 Train Avg loss:1.302141, Avg acc:0.716406
+Epoch: 0 batch_id:500 lr:0.001000 Train Avg loss:1.271048, Avg acc:0.722000
+Epoch: 0 batch_id:520 lr:0.001000 Train Avg loss:1.241136, Avg acc:0.728486
+Epoch: 0 batch_id:540 lr:0.001000 Train Avg loss:1.212780, Avg acc:0.733796
+Epoch: 0 batch_id:560 lr:0.001000 Train Avg loss:1.185117, Avg acc:0.739509
+Epoch: 0 batch_id:580 lr:0.001000 Train Avg loss:1.157618, Avg acc:0.744935
+Epoch: 0 lr: 0.001000 Train Avg loss:1.133826, Avg acc:0.750105
+Epoch 0: batch_id:20 Validate Avg loss:0.462995, Avg acc:0.887500
+Epoch 0: batch_id:40 Validate Avg loss:0.437841, Avg acc:0.893750
+Epoch 0: batch_id:60 Validate Avg loss:0.416071, Avg acc:0.889583
+Epoch 0: batch_id:80 Validate Avg loss:0.430563, Avg acc:0.883594
+Epoch 0: batch_id:100 Validate Avg loss:0.456820, Avg acc:0.876250
+Epoch 0: batch_id:120 Validate Avg loss:0.453430, Avg acc:0.875000
+Epoch 0: batch_id:140 Validate Avg loss:0.454371, Avg acc:0.874554
+Epoch 0: batch_id:160 Validate Avg loss:0.461653, Avg acc:0.873437
+Epoch 0: batch_id:180 Validate Avg loss:0.463853, Avg acc:0.873958
+Epoch 0: batch_id:200 Validate Avg loss:0.466015, Avg acc:0.872188
+Epoch 0: batch_id:220 Validate Avg loss:0.464594, Avg acc:0.874432
+Epoch 0 Validate Avg loss:0.466977, Avg acc:0.873941
+Epoch: 1 batch_id:20 lr:0.001000 Train Avg loss:0.317226, Avg acc:0.931250
+Epoch: 1 batch_id:40 lr:0.001000 Train Avg loss:0.313354, Avg acc:0.931250
+Epoch: 1 batch_id:60 lr:0.001000 Train Avg loss:0.312725, Avg acc:0.934375
+Epoch: 1 batch_id:80 lr:0.001000 Train Avg loss:0.307936, Avg acc:0.932813
+Epoch: 1 batch_id:100 lr:0.001000 Train Avg loss:0.307973, Avg acc:0.930625
+Epoch: 1 batch_id:120 lr:0.001000 Train Avg loss:0.299408, Avg acc:0.933854
+Epoch: 1 batch_id:140 lr:0.001000 Train Avg loss:0.284160, Avg acc:0.938839
+Epoch: 1 batch_id:160 lr:0.001000 Train Avg loss:0.282202, Avg acc:0.940234
+Epoch: 1 batch_id:180 lr:0.001000 Train Avg loss:0.284545, Avg acc:0.938889
+Epoch: 1 batch_id:200 lr:0.001000 Train Avg loss:0.279857, Avg acc:0.940312
+Epoch: 1 batch_id:220 lr:0.001000 Train Avg loss:0.273300, Avg acc:0.942330
+Epoch: 1 batch_id:240 lr:0.001000 Train Avg loss:0.270123, Avg acc:0.942708
+Epoch: 1 batch_id:260 lr:0.001000 Train Avg loss:0.270623, Avg acc:0.942788
+Epoch: 1 batch_id:280 lr:0.001000 Train Avg loss:0.273445, Avg acc:0.941295
+Epoch: 1 batch_id:300 lr:0.001000 Train Avg loss:0.272691, Avg acc:0.940625
+Epoch: 1 batch_id:320 lr:0.001000 Train Avg loss:0.269780, Avg acc:0.942187
+Epoch: 1 batch_id:340 lr:0.001000 Train Avg loss:0.265757, Avg acc:0.943382
+Epoch: 1 batch_id:360 lr:0.001000 Train Avg loss:0.262724, Avg acc:0.944271
+Epoch: 1 batch_id:380 lr:0.001000 Train Avg loss:0.261419, Avg acc:0.944572
+Epoch: 1 batch_id:400 lr:0.001000 Train Avg loss:0.259325, Avg acc:0.944688
+Epoch: 1 batch_id:420 lr:0.001000 Train Avg loss:0.256438, Avg acc:0.946429
+Epoch: 1 batch_id:440 lr:0.001000 Train Avg loss:0.255171, Avg acc:0.946733
+Epoch: 1 batch_id:460 lr:0.001000 Train Avg loss:0.253778, Avg acc:0.947147
+Epoch: 1 batch_id:480 lr:0.001000 Train Avg loss:0.250211, Avg acc:0.947917
+Epoch: 1 batch_id:500 lr:0.001000 Train Avg loss:0.248023, Avg acc:0.947875
+Epoch: 1 batch_id:520 lr:0.001000 Train Avg loss:0.245988, Avg acc:0.948197
+Epoch: 1 batch_id:540 lr:0.001000 Train Avg loss:0.244061, Avg acc:0.948380
+Epoch: 1 batch_id:560 lr:0.001000 Train Avg loss:0.241532, Avg acc:0.948996
+Epoch: 1 batch_id:580 lr:0.001000 Train Avg loss:0.241338, Avg acc:0.948707
+Epoch: 1 lr: 0.001000 Train Avg loss:0.239193, Avg acc:0.948721
+Epoch 1: batch_id:20 Validate Avg loss:0.374642, Avg acc:0.893750
+Epoch 1: batch_id:40 Validate Avg loss:0.387186, Avg acc:0.892188
+Epoch 1: batch_id:60 Validate Avg loss:0.372517, Avg acc:0.887500
+Epoch 1: batch_id:80 Validate Avg loss:0.375521, Avg acc:0.885156
+Epoch 1: batch_id:100 Validate Avg loss:0.391616, Avg acc:0.880000
+Epoch 1: batch_id:120 Validate Avg loss:0.384970, Avg acc:0.883333
+Epoch 1: batch_id:140 Validate Avg loss:0.378002, Avg acc:0.884375
+Epoch 1: batch_id:160 Validate Avg loss:0.398803, Avg acc:0.880078
+Epoch 1: batch_id:180 Validate Avg loss:0.396049, Avg acc:0.881944
+Epoch 1: batch_id:200 Validate Avg loss:0.404428, Avg acc:0.881250
+Epoch 1: batch_id:220 Validate Avg loss:0.401317, Avg acc:0.883807
+Epoch 1 Validate Avg loss:0.405053, Avg acc:0.882680
+Epoch: 2 batch_id:20 lr:0.001000 Train Avg loss:0.180965, Avg acc:0.968750
+Epoch: 2 batch_id:40 lr:0.001000 Train Avg loss:0.154671, Avg acc:0.970313
+Epoch: 2 batch_id:60 lr:0.001000 Train Avg loss:0.162071, Avg acc:0.966667
+Epoch: 2 batch_id:80 lr:0.001000 Train Avg loss:0.159173, Avg acc:0.965625
+Epoch: 2 batch_id:100 lr:0.001000 Train Avg loss:0.154604, Avg acc:0.966250
+Epoch: 2 batch_id:120 lr:0.001000 Train Avg loss:0.155852, Avg acc:0.965104
+Epoch: 2 batch_id:140 lr:0.001000 Train Avg loss:0.155618, Avg acc:0.964732
+Epoch: 2 batch_id:160 lr:0.001000 Train Avg loss:0.158429, Avg acc:0.964844
+Epoch: 2 batch_id:180 lr:0.001000 Train Avg loss:0.162189, Avg acc:0.964583
+Epoch: 2 batch_id:200 lr:0.001000 Train Avg loss:0.156570, Avg acc:0.965938
+Epoch: 2 batch_id:220 lr:0.001000 Train Avg loss:0.155195, Avg acc:0.965625
+Epoch: 2 batch_id:240 lr:0.001000 Train Avg loss:0.156465, Avg acc:0.965104
+Epoch: 2 batch_id:260 lr:0.001000 Train Avg loss:0.155027, Avg acc:0.965385
+Epoch: 2 batch_id:280 lr:0.001000 Train Avg loss:0.155524, Avg acc:0.965179
+Epoch: 2 batch_id:300 lr:0.001000 Train Avg loss:0.152173, Avg acc:0.966875
+Epoch: 2 batch_id:320 lr:0.001000 Train Avg loss:0.153633, Avg acc:0.966406
+Epoch: 2 batch_id:340 lr:0.001000 Train Avg loss:0.151214, Avg acc:0.966728
+Epoch: 2 batch_id:360 lr:0.001000 Train Avg loss:0.151515, Avg acc:0.966840
+Epoch: 2 batch_id:380 lr:0.001000 Train Avg loss:0.152021, Avg acc:0.967105
+Epoch: 2 batch_id:400 lr:0.001000 Train Avg loss:0.152300, Avg acc:0.967656
+Epoch: 2 batch_id:420 lr:0.001000 Train Avg loss:0.152986, Avg acc:0.967411
+Epoch: 2 batch_id:440 lr:0.001000 Train Avg loss:0.152272, Avg acc:0.967045
+Epoch: 2 batch_id:460 lr:0.001000 Train Avg loss:0.152077, Avg acc:0.967391
+Epoch: 2 batch_id:480 lr:0.001000 Train Avg loss:0.151126, Avg acc:0.967448
+Epoch: 2 batch_id:500 lr:0.001000 Train Avg loss:0.149921, Avg acc:0.967750
+Epoch: 2 batch_id:520 lr:0.001000 Train Avg loss:0.149251, Avg acc:0.967909
+Epoch: 2 batch_id:540 lr:0.001000 Train Avg loss:0.148957, Avg acc:0.968056
+Epoch: 2 batch_id:560 lr:0.001000 Train Avg loss:0.149373, Avg acc:0.967746
+Epoch: 2 batch_id:580 lr:0.001000 Train Avg loss:0.147577, Avg acc:0.968319
+Epoch: 2 lr: 0.001000 Train Avg loss:0.146725, Avg acc:0.968540
+Epoch 2: batch_id:20 Validate Avg loss:0.341551, Avg acc:0.909375
+Epoch 2: batch_id:40 Validate Avg loss:0.319251, Avg acc:0.909375
+Epoch 2: batch_id:60 Validate Avg loss:0.310626, Avg acc:0.905208
+Epoch 2: batch_id:80 Validate Avg loss:0.329547, Avg acc:0.901563
+Epoch 2: batch_id:100 Validate Avg loss:0.350189, Avg acc:0.896250
+Epoch 2: batch_id:120 Validate Avg loss:0.345301, Avg acc:0.899479
+Epoch 2: batch_id:140 Validate Avg loss:0.341350, Avg acc:0.900000
+Epoch 2: batch_id:160 Validate Avg loss:0.356892, Avg acc:0.897266
+Epoch 2: batch_id:180 Validate Avg loss:0.356620, Avg acc:0.895833
+Epoch 2: batch_id:200 Validate Avg loss:0.366109, Avg acc:0.894375
+Epoch 2: batch_id:220 Validate Avg loss:0.365973, Avg acc:0.894318
+Epoch 2 Validate Avg loss:0.369389, Avg acc:0.894068
+Epoch: 3 batch_id:20 lr:0.001000 Train Avg loss:0.148808, Avg acc:0.968750
+Epoch: 3 batch_id:40 lr:0.001000 Train Avg loss:0.160407, Avg acc:0.968750
+Epoch: 3 batch_id:60 lr:0.001000 Train Avg loss:0.145578, Avg acc:0.970833
+Epoch: 3 batch_id:80 lr:0.001000 Train Avg loss:0.149168, Avg acc:0.967187
+Epoch: 3 batch_id:100 lr:0.001000 Train Avg loss:0.140870, Avg acc:0.971250
+Epoch: 3 batch_id:120 lr:0.001000 Train Avg loss:0.138622, Avg acc:0.971875
+Epoch: 3 batch_id:140 lr:0.001000 Train Avg loss:0.134418, Avg acc:0.973214
+Epoch: 3 batch_id:160 lr:0.001000 Train Avg loss:0.126412, Avg acc:0.975000
+Epoch: 3 batch_id:180 lr:0.001000 Train Avg loss:0.124079, Avg acc:0.975000
+Epoch: 3 batch_id:200 lr:0.001000 Train Avg loss:0.122111, Avg acc:0.975000
+Epoch: 3 batch_id:220 lr:0.001000 Train Avg loss:0.125029, Avg acc:0.973864
+Epoch: 3 batch_id:240 lr:0.001000 Train Avg loss:0.123689, Avg acc:0.974479
+Epoch: 3 batch_id:260 lr:0.001000 Train Avg loss:0.124267, Avg acc:0.974519
+Epoch: 3 batch_id:280 lr:0.001000 Train Avg loss:0.120807, Avg acc:0.975446
+Epoch: 3 batch_id:300 lr:0.001000 Train Avg loss:0.120061, Avg acc:0.975000
+Epoch: 3 batch_id:320 lr:0.001000 Train Avg loss:0.120977, Avg acc:0.974414
+Epoch: 3 batch_id:340 lr:0.001000 Train Avg loss:0.120867, Avg acc:0.974632
+Epoch: 3 batch_id:360 lr:0.001000 Train Avg loss:0.120784, Avg acc:0.975000
+Epoch: 3 batch_id:380 lr:0.001000 Train Avg loss:0.120420, Avg acc:0.975164
+Epoch: 3 batch_id:400 lr:0.001000 Train Avg loss:0.121737, Avg acc:0.975000
+Epoch: 3 batch_id:420 lr:0.001000 Train Avg loss:0.124743, Avg acc:0.974702
+Epoch: 3 batch_id:440 lr:0.001000 Train Avg loss:0.124359, Avg acc:0.974290
+Epoch: 3 batch_id:460 lr:0.001000 Train Avg loss:0.125486, Avg acc:0.973505
+Epoch: 3 batch_id:480 lr:0.001000 Train Avg loss:0.124774, Avg acc:0.973828
+Epoch: 3 batch_id:500 lr:0.001000 Train Avg loss:0.124084, Avg acc:0.974250
+Epoch: 3 batch_id:520 lr:0.001000 Train Avg loss:0.122108, Avg acc:0.974760
+Epoch: 3 batch_id:540 lr:0.001000 Train Avg loss:0.121346, Avg acc:0.975000
+Epoch: 3 batch_id:560 lr:0.001000 Train Avg loss:0.120629, Avg acc:0.975000
+Epoch: 3 batch_id:580 lr:0.001000 Train Avg loss:0.120744, Avg acc:0.975216
+Epoch: 3 lr: 0.001000 Train Avg loss:0.120850, Avg acc:0.975147
+Epoch 3: batch_id:20 Validate Avg loss:0.363624, Avg acc:0.896875
+Epoch 3: batch_id:40 Validate Avg loss:0.336417, Avg acc:0.906250
+Epoch 3: batch_id:60 Validate Avg loss:0.354415, Avg acc:0.898958
+Epoch 3: batch_id:80 Validate Avg loss:0.364313, Avg acc:0.896875
+Epoch 3: batch_id:100 Validate Avg loss:0.371013, Avg acc:0.894375
+Epoch 3: batch_id:120 Validate Avg loss:0.359186, Avg acc:0.896354
+Epoch 3: batch_id:140 Validate Avg loss:0.359454, Avg acc:0.895536
+Epoch 3: batch_id:160 Validate Avg loss:0.360604, Avg acc:0.895312
+Epoch 3: batch_id:180 Validate Avg loss:0.359526, Avg acc:0.897569
+Epoch 3: batch_id:200 Validate Avg loss:0.367069, Avg acc:0.895000
+Epoch 3: batch_id:220 Validate Avg loss:0.364698, Avg acc:0.896591
+Epoch 3 Validate Avg loss:0.371242, Avg acc:0.894333
+Epoch: 4 batch_id:20 lr:0.001000 Train Avg loss:0.072492, Avg acc:0.984375
+Epoch: 4 batch_id:40 lr:0.001000 Train Avg loss:0.075188, Avg acc:0.982812
+Epoch: 4 batch_id:60 lr:0.001000 Train Avg loss:0.077870, Avg acc:0.983333
+Epoch: 4 batch_id:80 lr:0.001000 Train Avg loss:0.079999, Avg acc:0.982812
+Epoch: 4 batch_id:100 lr:0.001000 Train Avg loss:0.089137, Avg acc:0.981875
+Epoch: 4 batch_id:120 lr:0.001000 Train Avg loss:0.090071, Avg acc:0.982292
+Epoch: 4 batch_id:140 lr:0.001000 Train Avg loss:0.087437, Avg acc:0.983482
+Epoch: 4 batch_id:160 lr:0.001000 Train Avg loss:0.093307, Avg acc:0.980859
+Epoch: 4 batch_id:180 lr:0.001000 Train Avg loss:0.092446, Avg acc:0.981250
+Epoch: 4 batch_id:200 lr:0.001000 Train Avg loss:0.092239, Avg acc:0.982187
+Epoch: 4 batch_id:220 lr:0.001000 Train Avg loss:0.093165, Avg acc:0.982386
+Epoch: 4 batch_id:240 lr:0.001000 Train Avg loss:0.090456, Avg acc:0.982292
+Epoch: 4 batch_id:260 lr:0.001000 Train Avg loss:0.089745, Avg acc:0.982933
+Epoch: 4 batch_id:280 lr:0.001000 Train Avg loss:0.087422, Avg acc:0.983259
+Epoch: 4 batch_id:300 lr:0.001000 Train Avg loss:0.085616, Avg acc:0.983958
+Epoch: 4 batch_id:320 lr:0.001000 Train Avg loss:0.086709, Avg acc:0.983398
+Epoch: 4 batch_id:340 lr:0.001000 Train Avg loss:0.084437, Avg acc:0.984007
+Epoch: 4 batch_id:360 lr:0.001000 Train Avg loss:0.085925, Avg acc:0.983507
+Epoch: 4 batch_id:380 lr:0.001000 Train Avg loss:0.084903, Avg acc:0.983882
+Epoch: 4 batch_id:400 lr:0.001000 Train Avg loss:0.085126, Avg acc:0.983906
+Epoch: 4 batch_id:420 lr:0.001000 Train Avg loss:0.085925, Avg acc:0.984226
+Epoch: 4 batch_id:440 lr:0.001000 Train Avg loss:0.085306, Avg acc:0.984233
+Epoch: 4 batch_id:460 lr:0.001000 Train Avg loss:0.084738, Avg acc:0.984239
+Epoch: 4 batch_id:480 lr:0.001000 Train Avg loss:0.085837, Avg acc:0.983724
+Epoch: 4 batch_id:500 lr:0.001000 Train Avg loss:0.084836, Avg acc:0.984125
+Epoch: 4 batch_id:520 lr:0.001000 Train Avg loss:0.085216, Avg acc:0.983894
+Epoch: 4 batch_id:540 lr:0.001000 Train Avg loss:0.083380, Avg acc:0.984259
+Epoch: 4 batch_id:560 lr:0.001000 Train Avg loss:0.082672, Avg acc:0.984375
+Epoch: 4 batch_id:580 lr:0.001000 Train Avg loss:0.083426, Avg acc:0.983944
+Epoch: 4 lr: 0.001000 Train Avg loss:0.083394, Avg acc:0.984060
+Epoch 4: batch_id:20 Validate Avg loss:0.304541, Avg acc:0.915625
+Epoch 4: batch_id:40 Validate Avg loss:0.329577, Avg acc:0.915625
+Epoch 4: batch_id:60 Validate Avg loss:0.340625, Avg acc:0.908333
+Epoch 4: batch_id:80 Validate Avg loss:0.343026, Avg acc:0.905469
+Epoch 4: batch_id:100 Validate Avg loss:0.357718, Avg acc:0.900000
+Epoch 4: batch_id:120 Validate Avg loss:0.343415, Avg acc:0.903125
+Epoch 4: batch_id:140 Validate Avg loss:0.339326, Avg acc:0.903571
+Epoch 4: batch_id:160 Validate Avg loss:0.347091, Avg acc:0.901953
+Epoch 4: batch_id:180 Validate Avg loss:0.351510, Avg acc:0.903472
+Epoch 4: batch_id:200 Validate Avg loss:0.364709, Avg acc:0.902500
+Epoch 4: batch_id:220 Validate Avg loss:0.360939, Avg acc:0.903409
+Epoch 4 Validate Avg loss:0.362568, Avg acc:0.903072
+Epoch: 5 batch_id:20 lr:0.001000 Train Avg loss:0.053826, Avg acc:0.993750
+Epoch: 5 batch_id:40 lr:0.001000 Train Avg loss:0.075393, Avg acc:0.984375
+Epoch: 5 batch_id:60 lr:0.001000 Train Avg loss:0.074184, Avg acc:0.984375
+Epoch: 5 batch_id:80 lr:0.001000 Train Avg loss:0.074456, Avg acc:0.985156
+Epoch: 5 batch_id:100 lr:0.001000 Train Avg loss:0.076457, Avg acc:0.984375
+Epoch: 5 batch_id:120 lr:0.001000 Train Avg loss:0.084702, Avg acc:0.981250
+Epoch: 5 batch_id:140 lr:0.001000 Train Avg loss:0.084364, Avg acc:0.980804
+Epoch: 5 batch_id:160 lr:0.001000 Train Avg loss:0.083489, Avg acc:0.982422
+Epoch: 5 batch_id:180 lr:0.001000 Train Avg loss:0.082065, Avg acc:0.982639
+Epoch: 5 batch_id:200 lr:0.001000 Train Avg loss:0.080547, Avg acc:0.983125
+Epoch: 5 batch_id:220 lr:0.001000 Train Avg loss:0.079840, Avg acc:0.982955
+Epoch: 5 batch_id:240 lr:0.001000 Train Avg loss:0.078846, Avg acc:0.983073
+Epoch: 5 batch_id:260 lr:0.001000 Train Avg loss:0.079294, Avg acc:0.982933
+Epoch: 5 batch_id:280 lr:0.001000 Train Avg loss:0.078194, Avg acc:0.983259
+Epoch: 5 batch_id:300 lr:0.001000 Train Avg loss:0.077868, Avg acc:0.983333
+Epoch: 5 batch_id:320 lr:0.001000 Train Avg loss:0.076301, Avg acc:0.983789
+Epoch: 5 batch_id:340 lr:0.001000 Train Avg loss:0.077165, Avg acc:0.983456
+Epoch: 5 batch_id:360 lr:0.001000 Train Avg loss:0.076572, Avg acc:0.983507
+Epoch: 5 batch_id:380 lr:0.001000 Train Avg loss:0.075538, Avg acc:0.984211
+Epoch: 5 batch_id:400 lr:0.001000 Train Avg loss:0.075853, Avg acc:0.984219
+Epoch: 5 batch_id:420 lr:0.001000 Train Avg loss:0.075177, Avg acc:0.984524
+Epoch: 5 batch_id:440 lr:0.001000 Train Avg loss:0.075351, Avg acc:0.984091
+Epoch: 5 batch_id:460 lr:0.001000 Train Avg loss:0.076001, Avg acc:0.983967
+Epoch: 5 batch_id:480 lr:0.001000 Train Avg loss:0.076895, Avg acc:0.984115
+Epoch: 5 batch_id:500 lr:0.001000 Train Avg loss:0.076269, Avg acc:0.984375
+Epoch: 5 batch_id:520 lr:0.001000 Train Avg loss:0.075789, Avg acc:0.984615
+Epoch: 5 batch_id:540 lr:0.001000 Train Avg loss:0.075491, Avg acc:0.984838
+Epoch: 5 batch_id:560 lr:0.001000 Train Avg loss:0.076653, Avg acc:0.984487
+Epoch: 5 batch_id:580 lr:0.001000 Train Avg loss:0.075299, Avg acc:0.985022
+Epoch: 5 lr: 0.001000 Train Avg loss:0.075330, Avg acc:0.985004
+Epoch 5: batch_id:20 Validate Avg loss:0.405931, Avg acc:0.896875
+Epoch 5: batch_id:40 Validate Avg loss:0.353293, Avg acc:0.904687
+Epoch 5: batch_id:60 Validate Avg loss:0.370078, Avg acc:0.902083
+Epoch 5: batch_id:80 Validate Avg loss:0.372310, Avg acc:0.901563
+Epoch 5: batch_id:100 Validate Avg loss:0.395297, Avg acc:0.898125
+Epoch 5: batch_id:120 Validate Avg loss:0.379185, Avg acc:0.904167
+Epoch 5: batch_id:140 Validate Avg loss:0.375709, Avg acc:0.905357
+Epoch 5: batch_id:160 Validate Avg loss:0.386619, Avg acc:0.904687
+Epoch 5: batch_id:180 Validate Avg loss:0.385461, Avg acc:0.904514
+Epoch 5: batch_id:200 Validate Avg loss:0.391216, Avg acc:0.904375
+Epoch 5: batch_id:220 Validate Avg loss:0.385870, Avg acc:0.905114
+Epoch 5 Validate Avg loss:0.385719, Avg acc:0.904396
+Epoch: 6 batch_id:20 lr:0.001000 Train Avg loss:0.042616, Avg acc:0.996875
+Epoch: 6 batch_id:40 lr:0.001000 Train Avg loss:0.067289, Avg acc:0.989062
+Epoch: 6 batch_id:60 lr:0.001000 Train Avg loss:0.059832, Avg acc:0.990625
+Epoch: 6 batch_id:80 lr:0.001000 Train Avg loss:0.058246, Avg acc:0.991406
+Epoch: 6 batch_id:100 lr:0.001000 Train Avg loss:0.060118, Avg acc:0.992500
+Epoch: 6 batch_id:120 lr:0.001000 Train Avg loss:0.059051, Avg acc:0.991667
+Epoch: 6 batch_id:140 lr:0.001000 Train Avg loss:0.056641, Avg acc:0.991964
+Epoch: 6 batch_id:160 lr:0.001000 Train Avg loss:0.053877, Avg acc:0.992578
+Epoch: 6 batch_id:180 lr:0.001000 Train Avg loss:0.053950, Avg acc:0.992014
+Epoch: 6 batch_id:200 lr:0.001000 Train Avg loss:0.054552, Avg acc:0.991563
+Epoch: 6 batch_id:220 lr:0.001000 Train Avg loss:0.053512, Avg acc:0.992045
+Epoch: 6 batch_id:240 lr:0.001000 Train Avg loss:0.053276, Avg acc:0.991927
+Epoch: 6 batch_id:260 lr:0.001000 Train Avg loss:0.053994, Avg acc:0.991346
+Epoch: 6 batch_id:280 lr:0.001000 Train Avg loss:0.054224, Avg acc:0.991295
+Epoch: 6 batch_id:300 lr:0.001000 Train Avg loss:0.054370, Avg acc:0.991250
+Epoch: 6 batch_id:320 lr:0.001000 Train Avg loss:0.055288, Avg acc:0.991211
+Epoch: 6 batch_id:340 lr:0.001000 Train Avg loss:0.055432, Avg acc:0.990993
+Epoch: 6 batch_id:360 lr:0.001000 Train Avg loss:0.054970, Avg acc:0.990799
+Epoch: 6 batch_id:380 lr:0.001000 Train Avg loss:0.054344, Avg acc:0.991118
+Epoch: 6 batch_id:400 lr:0.001000 Train Avg loss:0.056233, Avg acc:0.990625
+Epoch: 6 batch_id:420 lr:0.001000 Train Avg loss:0.056525, Avg acc:0.990476
+Epoch: 6 batch_id:440 lr:0.001000 Train Avg loss:0.056216, Avg acc:0.990625
+Epoch: 6 batch_id:460 lr:0.001000 Train Avg loss:0.056873, Avg acc:0.990761
+Epoch: 6 batch_id:480 lr:0.001000 Train Avg loss:0.057206, Avg acc:0.990625
+Epoch: 6 batch_id:500 lr:0.001000 Train Avg loss:0.056997, Avg acc:0.990500
+Epoch: 6 batch_id:520 lr:0.001000 Train Avg loss:0.057548, Avg acc:0.990144
+Epoch: 6 batch_id:540 lr:0.001000 Train Avg loss:0.057413, Avg acc:0.990278
+Epoch: 6 batch_id:560 lr:0.001000 Train Avg loss:0.057677, Avg acc:0.990179
+Epoch: 6 batch_id:580 lr:0.001000 Train Avg loss:0.057633, Avg acc:0.990194
+Epoch: 6 lr: 0.001000 Train Avg loss:0.057354, Avg acc:0.990352
+Epoch 6: batch_id:20 Validate Avg loss:0.365015, Avg acc:0.906250
+Epoch 6: batch_id:40 Validate Avg loss:0.326063, Avg acc:0.917188
+Epoch 6: batch_id:60 Validate Avg loss:0.335453, Avg acc:0.909375
+Epoch 6: batch_id:80 Validate Avg loss:0.354229, Avg acc:0.906250
+Epoch 6: batch_id:100 Validate Avg loss:0.375284, Avg acc:0.901250
+Epoch 6: batch_id:120 Validate Avg loss:0.361746, Avg acc:0.904167
+Epoch 6: batch_id:140 Validate Avg loss:0.358227, Avg acc:0.904911
+Epoch 6: batch_id:160 Validate Avg loss:0.363022, Avg acc:0.904297
+Epoch 6: batch_id:180 Validate Avg loss:0.364870, Avg acc:0.903819
+Epoch 6: batch_id:200 Validate Avg loss:0.370341, Avg acc:0.902500
+Epoch 6: batch_id:220 Validate Avg loss:0.365115, Avg acc:0.902557
+Epoch 6 Validate Avg loss:0.370050, Avg acc:0.901218
+- Validation Prec@1 saturates for 1 epochs. Best acc0.904396186440678
+Epoch: 7 batch_id:20 lr:0.001000 Train Avg loss:0.040647, Avg acc:0.996875
+Epoch: 7 batch_id:40 lr:0.001000 Train Avg loss:0.049103, Avg acc:0.995313
+Epoch: 7 batch_id:60 lr:0.001000 Train Avg loss:0.050225, Avg acc:0.993750
+Epoch: 7 batch_id:80 lr:0.001000 Train Avg loss:0.055366, Avg acc:0.990625
+Epoch: 7 batch_id:100 lr:0.001000 Train Avg loss:0.051834, Avg acc:0.990625
+Epoch: 7 batch_id:120 lr:0.001000 Train Avg loss:0.048039, Avg acc:0.992188
+Epoch: 7 batch_id:140 lr:0.001000 Train Avg loss:0.046104, Avg acc:0.991964
+Epoch: 7 batch_id:160 lr:0.001000 Train Avg loss:0.045104, Avg acc:0.992578
+Epoch: 7 batch_id:180 lr:0.001000 Train Avg loss:0.048447, Avg acc:0.990625
+Epoch: 7 batch_id:200 lr:0.001000 Train Avg loss:0.049535, Avg acc:0.990625
+Epoch: 7 batch_id:220 lr:0.001000 Train Avg loss:0.050621, Avg acc:0.990625
+Epoch: 7 batch_id:240 lr:0.001000 Train Avg loss:0.049496, Avg acc:0.990885
+Epoch: 7 batch_id:260 lr:0.001000 Train Avg loss:0.050531, Avg acc:0.990144
+Epoch: 7 batch_id:280 lr:0.001000 Train Avg loss:0.050416, Avg acc:0.990625
+Epoch: 7 batch_id:300 lr:0.001000 Train Avg loss:0.051098, Avg acc:0.990417
+Epoch: 7 batch_id:320 lr:0.001000 Train Avg loss:0.052325, Avg acc:0.989844
+Epoch: 7 batch_id:340 lr:0.001000 Train Avg loss:0.051685, Avg acc:0.989890
+Epoch: 7 batch_id:360 lr:0.001000 Train Avg loss:0.052774, Avg acc:0.989583
+Epoch: 7 batch_id:380 lr:0.001000 Train Avg loss:0.053315, Avg acc:0.989638
+Epoch: 7 batch_id:400 lr:0.001000 Train Avg loss:0.052962, Avg acc:0.989844
+Epoch: 7 batch_id:420 lr:0.001000 Train Avg loss:0.053418, Avg acc:0.989435
+Epoch: 7 batch_id:440 lr:0.001000 Train Avg loss:0.054040, Avg acc:0.989489
+Epoch: 7 batch_id:460 lr:0.001000 Train Avg loss:0.054467, Avg acc:0.989538
+Epoch: 7 batch_id:480 lr:0.001000 Train Avg loss:0.054762, Avg acc:0.989453
+Epoch: 7 batch_id:500 lr:0.001000 Train Avg loss:0.055604, Avg acc:0.989375
+Epoch: 7 batch_id:520 lr:0.001000 Train Avg loss:0.055539, Avg acc:0.989423
+Epoch: 7 batch_id:540 lr:0.001000 Train Avg loss:0.054608, Avg acc:0.989815
+Epoch: 7 batch_id:560 lr:0.001000 Train Avg loss:0.054167, Avg acc:0.989955
+Epoch: 7 batch_id:580 lr:0.001000 Train Avg loss:0.054251, Avg acc:0.989978
+Epoch: 7 lr: 0.001000 Train Avg loss:0.054195, Avg acc:0.990038
+Epoch 7: batch_id:20 Validate Avg loss:0.402095, Avg acc:0.896875
+Epoch 7: batch_id:40 Validate Avg loss:0.380260, Avg acc:0.909375
+Epoch 7: batch_id:60 Validate Avg loss:0.386231, Avg acc:0.904167
+Epoch 7: batch_id:80 Validate Avg loss:0.384602, Avg acc:0.899219
+Epoch 7: batch_id:100 Validate Avg loss:0.398541, Avg acc:0.894375
+Epoch 7: batch_id:120 Validate Avg loss:0.380814, Avg acc:0.900521
+Epoch 7: batch_id:140 Validate Avg loss:0.379121, Avg acc:0.900000
+Epoch 7: batch_id:160 Validate Avg loss:0.383690, Avg acc:0.898047
+Epoch 7: batch_id:180 Validate Avg loss:0.385685, Avg acc:0.898958
+Epoch 7: batch_id:200 Validate Avg loss:0.399310, Avg acc:0.895312
+Epoch 7: batch_id:220 Validate Avg loss:0.397456, Avg acc:0.895170
+Epoch 7 Validate Avg loss:0.402588, Avg acc:0.892744
+- Validation Prec@1 saturates for 2 epochs. Best acc0.904396186440678
+Epoch: 8 batch_id:20 lr:0.001000 Train Avg loss:0.068864, Avg acc:0.984375
+Epoch: 8 batch_id:40 lr:0.001000 Train Avg loss:0.048870, Avg acc:0.989062
+Epoch: 8 batch_id:60 lr:0.001000 Train Avg loss:0.045403, Avg acc:0.991667
+Epoch: 8 batch_id:80 lr:0.001000 Train Avg loss:0.043303, Avg acc:0.992188
+Epoch: 8 batch_id:100 lr:0.001000 Train Avg loss:0.043783, Avg acc:0.992500
+Epoch: 8 batch_id:120 lr:0.001000 Train Avg loss:0.046005, Avg acc:0.991667
+Epoch: 8 batch_id:140 lr:0.001000 Train Avg loss:0.046058, Avg acc:0.991071
+Epoch: 8 batch_id:160 lr:0.001000 Train Avg loss:0.046049, Avg acc:0.990625
+Epoch: 8 batch_id:180 lr:0.001000 Train Avg loss:0.045753, Avg acc:0.990972
+Epoch: 8 batch_id:200 lr:0.001000 Train Avg loss:0.045174, Avg acc:0.991250
+Epoch: 8 batch_id:220 lr:0.001000 Train Avg loss:0.045551, Avg acc:0.991193
+Epoch: 8 batch_id:240 lr:0.001000 Train Avg loss:0.045684, Avg acc:0.991406
+Epoch: 8 batch_id:260 lr:0.001000 Train Avg loss:0.044843, Avg acc:0.991827
+Epoch: 8 batch_id:280 lr:0.001000 Train Avg loss:0.045643, Avg acc:0.991518
+Epoch: 8 batch_id:300 lr:0.001000 Train Avg loss:0.045129, Avg acc:0.991667
+Epoch: 8 batch_id:320 lr:0.001000 Train Avg loss:0.045385, Avg acc:0.991797
+Epoch: 8 batch_id:340 lr:0.001000 Train Avg loss:0.044750, Avg acc:0.991544
+Epoch: 8 batch_id:360 lr:0.001000 Train Avg loss:0.045334, Avg acc:0.991146
+Epoch: 8 batch_id:380 lr:0.001000 Train Avg loss:0.045439, Avg acc:0.990789
+Epoch: 8 batch_id:400 lr:0.001000 Train Avg loss:0.045369, Avg acc:0.990625
+Epoch: 8 batch_id:420 lr:0.001000 Train Avg loss:0.046159, Avg acc:0.990774
+Epoch: 8 batch_id:440 lr:0.001000 Train Avg loss:0.047522, Avg acc:0.990625
+Epoch: 8 batch_id:460 lr:0.001000 Train Avg loss:0.047138, Avg acc:0.990625
+Epoch: 8 batch_id:480 lr:0.001000 Train Avg loss:0.046899, Avg acc:0.991016
+Epoch: 8 batch_id:500 lr:0.001000 Train Avg loss:0.046916, Avg acc:0.991250
+Epoch: 8 batch_id:520 lr:0.001000 Train Avg loss:0.047391, Avg acc:0.990986
+Epoch: 8 batch_id:540 lr:0.001000 Train Avg loss:0.047968, Avg acc:0.990972
+Epoch: 8 batch_id:560 lr:0.001000 Train Avg loss:0.047284, Avg acc:0.991183
+Epoch: 8 batch_id:580 lr:0.001000 Train Avg loss:0.047941, Avg acc:0.991056
+Epoch: 8 lr: 0.001000 Train Avg loss:0.048021, Avg acc:0.991086
+Epoch 8: batch_id:20 Validate Avg loss:0.414671, Avg acc:0.893750
+Epoch 8: batch_id:40 Validate Avg loss:0.358795, Avg acc:0.903125
+Epoch 8: batch_id:60 Validate Avg loss:0.354384, Avg acc:0.907292
+Epoch 8: batch_id:80 Validate Avg loss:0.353882, Avg acc:0.906250
+Epoch 8: batch_id:100 Validate Avg loss:0.376758, Avg acc:0.901250
+Epoch 8: batch_id:120 Validate Avg loss:0.369785, Avg acc:0.904687
+Epoch 8: batch_id:140 Validate Avg loss:0.373163, Avg acc:0.904464
+Epoch 8: batch_id:160 Validate Avg loss:0.391338, Avg acc:0.899609
+Epoch 8: batch_id:180 Validate Avg loss:0.393699, Avg acc:0.898611
+Epoch 8: batch_id:200 Validate Avg loss:0.393094, Avg acc:0.898438
+Epoch 8: batch_id:220 Validate Avg loss:0.393063, Avg acc:0.898580
+Epoch 8 Validate Avg loss:0.393719, Avg acc:0.897775
+- Validation Prec@1 saturates for 3 epochs. Best acc0.904396186440678
+Epoch: 9 batch_id:20 lr:0.001000 Train Avg loss:0.034974, Avg acc:0.993750
+Epoch: 9 batch_id:40 lr:0.001000 Train Avg loss:0.032400, Avg acc:0.993750
+Epoch: 9 batch_id:60 lr:0.001000 Train Avg loss:0.039697, Avg acc:0.991667
+Epoch: 9 batch_id:80 lr:0.001000 Train Avg loss:0.038479, Avg acc:0.992969
+Epoch: 9 batch_id:100 lr:0.001000 Train Avg loss:0.042246, Avg acc:0.991250
+Epoch: 9 batch_id:120 lr:0.001000 Train Avg loss:0.042519, Avg acc:0.991667
+Epoch: 9 batch_id:140 lr:0.001000 Train Avg loss:0.041323, Avg acc:0.991964
+Epoch: 9 batch_id:160 lr:0.001000 Train Avg loss:0.041267, Avg acc:0.991797
+Epoch: 9 batch_id:180 lr:0.001000 Train Avg loss:0.040729, Avg acc:0.992014
+Epoch: 9 batch_id:200 lr:0.001000 Train Avg loss:0.038933, Avg acc:0.992500
+Epoch: 9 batch_id:220 lr:0.001000 Train Avg loss:0.038037, Avg acc:0.992898
+Epoch: 9 batch_id:240 lr:0.001000 Train Avg loss:0.036100, Avg acc:0.993490
+Epoch: 9 batch_id:260 lr:0.001000 Train Avg loss:0.035371, Avg acc:0.993750
+Epoch: 9 batch_id:280 lr:0.001000 Train Avg loss:0.036675, Avg acc:0.992857
+Epoch: 9 batch_id:300 lr:0.001000 Train Avg loss:0.037646, Avg acc:0.992500
+Epoch: 9 batch_id:320 lr:0.001000 Train Avg loss:0.039344, Avg acc:0.991797
+Epoch: 9 batch_id:340 lr:0.001000 Train Avg loss:0.039650, Avg acc:0.991360
+Epoch: 9 batch_id:360 lr:0.001000 Train Avg loss:0.039427, Avg acc:0.991667
+Epoch: 9 batch_id:380 lr:0.001000 Train Avg loss:0.039747, Avg acc:0.991612
+Epoch: 9 batch_id:400 lr:0.001000 Train Avg loss:0.040125, Avg acc:0.991719
+Epoch: 9 batch_id:420 lr:0.001000 Train Avg loss:0.039816, Avg acc:0.991964
+Epoch: 9 batch_id:440 lr:0.001000 Train Avg loss:0.040367, Avg acc:0.992045
+Epoch: 9 batch_id:460 lr:0.001000 Train Avg loss:0.040634, Avg acc:0.992120
+Epoch: 9 batch_id:480 lr:0.001000 Train Avg loss:0.040805, Avg acc:0.992057
+Epoch: 9 batch_id:500 lr:0.001000 Train Avg loss:0.041225, Avg acc:0.991875
+Epoch: 9 batch_id:520 lr:0.001000 Train Avg loss:0.041104, Avg acc:0.991947
+Epoch: 9 batch_id:540 lr:0.001000 Train Avg loss:0.041036, Avg acc:0.991782
+Epoch: 9 batch_id:560 lr:0.001000 Train Avg loss:0.040626, Avg acc:0.991853
+Epoch: 9 batch_id:580 lr:0.001000 Train Avg loss:0.040717, Avg acc:0.991810
+Epoch: 9 lr: 0.001000 Train Avg loss:0.041734, Avg acc:0.991506
+Epoch 9: batch_id:20 Validate Avg loss:0.389243, Avg acc:0.903125
+Epoch 9: batch_id:40 Validate Avg loss:0.349638, Avg acc:0.914062
+Epoch 9: batch_id:60 Validate Avg loss:0.347413, Avg acc:0.910417
+Epoch 9: batch_id:80 Validate Avg loss:0.349597, Avg acc:0.906250
+Epoch 9: batch_id:100 Validate Avg loss:0.360643, Avg acc:0.900000
+Epoch 9: batch_id:120 Validate Avg loss:0.347850, Avg acc:0.903646
+Epoch 9: batch_id:140 Validate Avg loss:0.344527, Avg acc:0.903125
+Epoch 9: batch_id:160 Validate Avg loss:0.355209, Avg acc:0.901172
+Epoch 9: batch_id:180 Validate Avg loss:0.353236, Avg acc:0.903472
+Epoch 9: batch_id:200 Validate Avg loss:0.359821, Avg acc:0.902188
+Epoch 9: batch_id:220 Validate Avg loss:0.356532, Avg acc:0.903125
+Epoch 9 Validate Avg loss:0.357821, Avg acc:0.902278
+- Validation Prec@1 saturates for 4 epochs. Best acc0.904396186440678
+Epoch: 10 batch_id:20 lr:0.001000 Train Avg loss:0.030563, Avg acc:0.996875
+Epoch: 10 batch_id:40 lr:0.001000 Train Avg loss:0.044665, Avg acc:0.995313
+Epoch: 10 batch_id:60 lr:0.001000 Train Avg loss:0.039580, Avg acc:0.995833
+Epoch: 10 batch_id:80 lr:0.001000 Train Avg loss:0.036611, Avg acc:0.996094
+Epoch: 10 batch_id:100 lr:0.001000 Train Avg loss:0.043269, Avg acc:0.995000
+Epoch: 10 batch_id:120 lr:0.001000 Train Avg loss:0.042615, Avg acc:0.994792
+Epoch: 10 batch_id:140 lr:0.001000 Train Avg loss:0.042090, Avg acc:0.995089
+Epoch: 10 batch_id:160 lr:0.001000 Train Avg loss:0.040879, Avg acc:0.994922
+Epoch: 10 batch_id:180 lr:0.001000 Train Avg loss:0.042871, Avg acc:0.994444
+Epoch: 10 batch_id:200 lr:0.001000 Train Avg loss:0.046639, Avg acc:0.993437
+Epoch: 10 batch_id:220 lr:0.001000 Train Avg loss:0.045572, Avg acc:0.993466
+Epoch: 10 batch_id:240 lr:0.001000 Train Avg loss:0.047170, Avg acc:0.993229
+Epoch: 10 batch_id:260 lr:0.001000 Train Avg loss:0.045711, Avg acc:0.993269
+Epoch: 10 batch_id:280 lr:0.001000 Train Avg loss:0.045526, Avg acc:0.993080
+Epoch: 10 batch_id:300 lr:0.001000 Train Avg loss:0.046005, Avg acc:0.992708
+Epoch: 10 batch_id:320 lr:0.001000 Train Avg loss:0.045226, Avg acc:0.992578
+Epoch: 10 batch_id:340 lr:0.001000 Train Avg loss:0.045116, Avg acc:0.992463
+Epoch: 10 batch_id:360 lr:0.001000 Train Avg loss:0.044535, Avg acc:0.992708
+Epoch: 10 batch_id:380 lr:0.001000 Train Avg loss:0.045470, Avg acc:0.992434
+Epoch: 10 batch_id:400 lr:0.001000 Train Avg loss:0.045594, Avg acc:0.992031
+Epoch: 10 batch_id:420 lr:0.001000 Train Avg loss:0.045913, Avg acc:0.992113
+Epoch: 10 batch_id:440 lr:0.001000 Train Avg loss:0.045484, Avg acc:0.992330
+Epoch: 10 batch_id:460 lr:0.001000 Train Avg loss:0.045380, Avg acc:0.992255
+Epoch: 10 batch_id:480 lr:0.001000 Train Avg loss:0.045343, Avg acc:0.992318
+Epoch: 10 batch_id:500 lr:0.001000 Train Avg loss:0.045469, Avg acc:0.992250
+Epoch: 10 batch_id:520 lr:0.001000 Train Avg loss:0.045206, Avg acc:0.992188
+Epoch: 10 batch_id:540 lr:0.001000 Train Avg loss:0.044695, Avg acc:0.992361
+Epoch: 10 batch_id:560 lr:0.001000 Train Avg loss:0.044776, Avg acc:0.992299
+Epoch: 10 batch_id:580 lr:0.001000 Train Avg loss:0.044622, Avg acc:0.992241
+Epoch: 10 lr: 0.001000 Train Avg loss:0.044547, Avg acc:0.992345
+Epoch 10: batch_id:20 Validate Avg loss:0.445525, Avg acc:0.890625
+Epoch 10: batch_id:40 Validate Avg loss:0.373987, Avg acc:0.907813
+Epoch 10: batch_id:60 Validate Avg loss:0.367848, Avg acc:0.905208
+Epoch 10: batch_id:80 Validate Avg loss:0.365358, Avg acc:0.906250
+Epoch 10: batch_id:100 Validate Avg loss:0.381802, Avg acc:0.900000
+Epoch 10: batch_id:120 Validate Avg loss:0.364252, Avg acc:0.903646
+Epoch 10: batch_id:140 Validate Avg loss:0.360305, Avg acc:0.904464
+Epoch 10: batch_id:160 Validate Avg loss:0.372913, Avg acc:0.901953
+Epoch 10: batch_id:180 Validate Avg loss:0.367507, Avg acc:0.902778
+Epoch 10: batch_id:200 Validate Avg loss:0.376045, Avg acc:0.902813
+Epoch 10: batch_id:220 Validate Avg loss:0.375566, Avg acc:0.902273
+Epoch 10 Validate Avg loss:0.381849, Avg acc:0.900159
+- Validation Prec@1 saturates for 5 epochs. Best acc0.904396186440678
+learning rate decay by 0.1. 
+Epoch: 11 batch_id:20 lr:0.000100 Train Avg loss:0.028383, Avg acc:0.993750
+Epoch: 11 batch_id:40 lr:0.000100 Train Avg loss:0.049557, Avg acc:0.987500
+Epoch: 11 batch_id:60 lr:0.000100 Train Avg loss:0.040156, Avg acc:0.991667
+Epoch: 11 batch_id:80 lr:0.000100 Train Avg loss:0.036004, Avg acc:0.992969
+Epoch: 11 batch_id:100 lr:0.000100 Train Avg loss:0.033724, Avg acc:0.994375
+Epoch: 11 batch_id:120 lr:0.000100 Train Avg loss:0.034363, Avg acc:0.994271
+Epoch: 11 batch_id:140 lr:0.000100 Train Avg loss:0.036089, Avg acc:0.994196
+Epoch: 11 batch_id:160 lr:0.000100 Train Avg loss:0.034377, Avg acc:0.994922
+Epoch: 11 batch_id:180 lr:0.000100 Train Avg loss:0.033990, Avg acc:0.994792
+Epoch: 11 batch_id:200 lr:0.000100 Train Avg loss:0.032672, Avg acc:0.995000
+Epoch: 11 batch_id:220 lr:0.000100 Train Avg loss:0.031086, Avg acc:0.995455
+Epoch: 11 batch_id:240 lr:0.000100 Train Avg loss:0.034115, Avg acc:0.994531
+Epoch: 11 batch_id:260 lr:0.000100 Train Avg loss:0.033633, Avg acc:0.994471
+Epoch: 11 batch_id:280 lr:0.000100 Train Avg loss:0.033239, Avg acc:0.994643
+Epoch: 11 batch_id:300 lr:0.000100 Train Avg loss:0.032889, Avg acc:0.994792
+Epoch: 11 batch_id:320 lr:0.000100 Train Avg loss:0.031849, Avg acc:0.994922
+Epoch: 11 batch_id:340 lr:0.000100 Train Avg loss:0.031043, Avg acc:0.995037
+Epoch: 11 batch_id:360 lr:0.000100 Train Avg loss:0.030364, Avg acc:0.995139
+Epoch: 11 batch_id:380 lr:0.000100 Train Avg loss:0.029782, Avg acc:0.995230
+Epoch: 11 batch_id:400 lr:0.000100 Train Avg loss:0.029436, Avg acc:0.995313
+Epoch: 11 batch_id:420 lr:0.000100 Train Avg loss:0.029836, Avg acc:0.994940
+Epoch: 11 batch_id:440 lr:0.000100 Train Avg loss:0.029840, Avg acc:0.994886
+Epoch: 11 batch_id:460 lr:0.000100 Train Avg loss:0.030460, Avg acc:0.994701
+Epoch: 11 batch_id:480 lr:0.000100 Train Avg loss:0.030193, Avg acc:0.994792
+Epoch: 11 batch_id:500 lr:0.000100 Train Avg loss:0.031013, Avg acc:0.994750
+Epoch: 11 batch_id:520 lr:0.000100 Train Avg loss:0.030952, Avg acc:0.994712
+Epoch: 11 batch_id:540 lr:0.000100 Train Avg loss:0.030658, Avg acc:0.994560
+Epoch: 11 batch_id:560 lr:0.000100 Train Avg loss:0.030848, Avg acc:0.994643
+Epoch: 11 batch_id:580 lr:0.000100 Train Avg loss:0.030414, Avg acc:0.994720
+Epoch: 11 lr: 0.000100 Train Avg loss:0.030074, Avg acc:0.994862
+Epoch 11: batch_id:20 Validate Avg loss:0.372785, Avg acc:0.909375
+Epoch 11: batch_id:40 Validate Avg loss:0.321820, Avg acc:0.918750
+Epoch 11: batch_id:60 Validate Avg loss:0.316735, Avg acc:0.914583
+Epoch 11: batch_id:80 Validate Avg loss:0.322375, Avg acc:0.913281
+Epoch 11: batch_id:100 Validate Avg loss:0.339886, Avg acc:0.908125
+Epoch 11: batch_id:120 Validate Avg loss:0.329678, Avg acc:0.911979
+Epoch 11: batch_id:140 Validate Avg loss:0.324185, Avg acc:0.912500
+Epoch 11: batch_id:160 Validate Avg loss:0.337708, Avg acc:0.910937
+Epoch 11: batch_id:180 Validate Avg loss:0.333631, Avg acc:0.911111
+Epoch 11: batch_id:200 Validate Avg loss:0.342267, Avg acc:0.909062
+Epoch 11: batch_id:220 Validate Avg loss:0.341256, Avg acc:0.908807
+Epoch 11 Validate Avg loss:0.345572, Avg acc:0.907309
+Epoch: 12 batch_id:20 lr:0.000100 Train Avg loss:0.027157, Avg acc:0.993750
+Epoch: 12 batch_id:40 lr:0.000100 Train Avg loss:0.037167, Avg acc:0.992188
+Epoch: 12 batch_id:60 lr:0.000100 Train Avg loss:0.035213, Avg acc:0.993750
+Epoch: 12 batch_id:80 lr:0.000100 Train Avg loss:0.030558, Avg acc:0.994531
+Epoch: 12 batch_id:100 lr:0.000100 Train Avg loss:0.030406, Avg acc:0.993750
+Epoch: 12 batch_id:120 lr:0.000100 Train Avg loss:0.031309, Avg acc:0.993229
+Epoch: 12 batch_id:140 lr:0.000100 Train Avg loss:0.031814, Avg acc:0.993304
+Epoch: 12 batch_id:160 lr:0.000100 Train Avg loss:0.030819, Avg acc:0.993359
+Epoch: 12 batch_id:180 lr:0.000100 Train Avg loss:0.028878, Avg acc:0.994097
+Epoch: 12 batch_id:200 lr:0.000100 Train Avg loss:0.027446, Avg acc:0.994687
+Epoch: 12 batch_id:220 lr:0.000100 Train Avg loss:0.025808, Avg acc:0.995170
+Epoch: 12 batch_id:240 lr:0.000100 Train Avg loss:0.026054, Avg acc:0.994792
+Epoch: 12 batch_id:260 lr:0.000100 Train Avg loss:0.026305, Avg acc:0.994952
+Epoch: 12 batch_id:280 lr:0.000100 Train Avg loss:0.025781, Avg acc:0.994866
+Epoch: 12 batch_id:300 lr:0.000100 Train Avg loss:0.025649, Avg acc:0.994792
+Epoch: 12 batch_id:320 lr:0.000100 Train Avg loss:0.025232, Avg acc:0.995117
+Epoch: 12 batch_id:340 lr:0.000100 Train Avg loss:0.024833, Avg acc:0.995221
+Epoch: 12 batch_id:360 lr:0.000100 Train Avg loss:0.024560, Avg acc:0.995486
+Epoch: 12 batch_id:380 lr:0.000100 Train Avg loss:0.024165, Avg acc:0.995559
+Epoch: 12 batch_id:400 lr:0.000100 Train Avg loss:0.023957, Avg acc:0.995625
+Epoch: 12 batch_id:420 lr:0.000100 Train Avg loss:0.023749, Avg acc:0.995833
+Epoch: 12 batch_id:440 lr:0.000100 Train Avg loss:0.024485, Avg acc:0.995739
+Epoch: 12 batch_id:460 lr:0.000100 Train Avg loss:0.025205, Avg acc:0.995516
+Epoch: 12 batch_id:480 lr:0.000100 Train Avg loss:0.025062, Avg acc:0.995443
+Epoch: 12 batch_id:500 lr:0.000100 Train Avg loss:0.024768, Avg acc:0.995500
+Epoch: 12 batch_id:520 lr:0.000100 Train Avg loss:0.024845, Avg acc:0.995433
+Epoch: 12 batch_id:540 lr:0.000100 Train Avg loss:0.025048, Avg acc:0.995486
+Epoch: 12 batch_id:560 lr:0.000100 Train Avg loss:0.025314, Avg acc:0.995536
+Epoch: 12 batch_id:580 lr:0.000100 Train Avg loss:0.024955, Avg acc:0.995690
+Epoch: 12 lr: 0.000100 Train Avg loss:0.024635, Avg acc:0.995805
+Epoch 12: batch_id:20 Validate Avg loss:0.368694, Avg acc:0.896875
+Epoch 12: batch_id:40 Validate Avg loss:0.312681, Avg acc:0.915625
+Epoch 12: batch_id:60 Validate Avg loss:0.308222, Avg acc:0.916667
+Epoch 12: batch_id:80 Validate Avg loss:0.311039, Avg acc:0.917969
+Epoch 12: batch_id:100 Validate Avg loss:0.329497, Avg acc:0.911250
+Epoch 12: batch_id:120 Validate Avg loss:0.315812, Avg acc:0.916146
+Epoch 12: batch_id:140 Validate Avg loss:0.311807, Avg acc:0.917411
+Epoch 12: batch_id:160 Validate Avg loss:0.326328, Avg acc:0.915625
+Epoch 12: batch_id:180 Validate Avg loss:0.323478, Avg acc:0.915972
+Epoch 12: batch_id:200 Validate Avg loss:0.330894, Avg acc:0.914687
+Epoch 12: batch_id:220 Validate Avg loss:0.330219, Avg acc:0.914205
+Epoch 12 Validate Avg loss:0.335684, Avg acc:0.912341
+Epoch: 13 batch_id:20 lr:0.000100 Train Avg loss:0.018024, Avg acc:0.996875
+Epoch: 13 batch_id:40 lr:0.000100 Train Avg loss:0.015606, Avg acc:0.998437
+Epoch: 13 batch_id:60 lr:0.000100 Train Avg loss:0.018625, Avg acc:0.996875
+Epoch: 13 batch_id:80 lr:0.000100 Train Avg loss:0.018024, Avg acc:0.997656
+Epoch: 13 batch_id:100 lr:0.000100 Train Avg loss:0.018022, Avg acc:0.996250
+Epoch: 13 batch_id:120 lr:0.000100 Train Avg loss:0.018468, Avg acc:0.995833
+Epoch: 13 batch_id:140 lr:0.000100 Train Avg loss:0.018227, Avg acc:0.995982
+Epoch: 13 batch_id:160 lr:0.000100 Train Avg loss:0.017771, Avg acc:0.996484
+Epoch: 13 batch_id:180 lr:0.000100 Train Avg loss:0.018309, Avg acc:0.996875
+Epoch: 13 batch_id:200 lr:0.000100 Train Avg loss:0.018912, Avg acc:0.996563
+Epoch: 13 batch_id:220 lr:0.000100 Train Avg loss:0.019003, Avg acc:0.996591
+Epoch: 13 batch_id:240 lr:0.000100 Train Avg loss:0.019314, Avg acc:0.996615
+Epoch: 13 batch_id:260 lr:0.000100 Train Avg loss:0.019300, Avg acc:0.996635
+Epoch: 13 batch_id:280 lr:0.000100 Train Avg loss:0.019866, Avg acc:0.996429
+Epoch: 13 batch_id:300 lr:0.000100 Train Avg loss:0.019994, Avg acc:0.996667
+Epoch: 13 batch_id:320 lr:0.000100 Train Avg loss:0.020163, Avg acc:0.996875
+Epoch: 13 batch_id:340 lr:0.000100 Train Avg loss:0.020181, Avg acc:0.996875
+Epoch: 13 batch_id:360 lr:0.000100 Train Avg loss:0.019902, Avg acc:0.996875
+Epoch: 13 batch_id:380 lr:0.000100 Train Avg loss:0.020014, Avg acc:0.997039
+Epoch: 13 batch_id:400 lr:0.000100 Train Avg loss:0.019673, Avg acc:0.997188
+Epoch: 13 batch_id:420 lr:0.000100 Train Avg loss:0.020253, Avg acc:0.996875
+Epoch: 13 batch_id:440 lr:0.000100 Train Avg loss:0.019988, Avg acc:0.997017
+Epoch: 13 batch_id:460 lr:0.000100 Train Avg loss:0.020726, Avg acc:0.996875
+Epoch: 13 batch_id:480 lr:0.000100 Train Avg loss:0.021248, Avg acc:0.996745
+Epoch: 13 batch_id:500 lr:0.000100 Train Avg loss:0.021110, Avg acc:0.996875
+Epoch: 13 batch_id:520 lr:0.000100 Train Avg loss:0.020743, Avg acc:0.996995
+Epoch: 13 batch_id:540 lr:0.000100 Train Avg loss:0.020451, Avg acc:0.997106
+Epoch: 13 batch_id:560 lr:0.000100 Train Avg loss:0.020291, Avg acc:0.997098
+Epoch: 13 batch_id:580 lr:0.000100 Train Avg loss:0.020256, Avg acc:0.997091
+Epoch: 13 lr: 0.000100 Train Avg loss:0.020241, Avg acc:0.997064
+Epoch 13: batch_id:20 Validate Avg loss:0.377063, Avg acc:0.909375
+Epoch 13: batch_id:40 Validate Avg loss:0.321975, Avg acc:0.920312
+Epoch 13: batch_id:60 Validate Avg loss:0.319850, Avg acc:0.915625
+Epoch 13: batch_id:80 Validate Avg loss:0.321054, Avg acc:0.914844
+Epoch 13: batch_id:100 Validate Avg loss:0.337608, Avg acc:0.907500
+Epoch 13: batch_id:120 Validate Avg loss:0.321405, Avg acc:0.912500
+Epoch 13: batch_id:140 Validate Avg loss:0.319260, Avg acc:0.914286
+Epoch 13: batch_id:160 Validate Avg loss:0.334720, Avg acc:0.912500
+Epoch 13: batch_id:180 Validate Avg loss:0.332976, Avg acc:0.912500
+Epoch 13: batch_id:200 Validate Avg loss:0.339489, Avg acc:0.910937
+Epoch 13: batch_id:220 Validate Avg loss:0.337714, Avg acc:0.911080
+Epoch 13 Validate Avg loss:0.343982, Avg acc:0.909958
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9123411016949152
+Epoch: 14 batch_id:20 lr:0.000100 Train Avg loss:0.026244, Avg acc:0.993750
+Epoch: 14 batch_id:40 lr:0.000100 Train Avg loss:0.019601, Avg acc:0.996875
+Epoch: 14 batch_id:60 lr:0.000100 Train Avg loss:0.018648, Avg acc:0.996875
+Epoch: 14 batch_id:80 lr:0.000100 Train Avg loss:0.022970, Avg acc:0.995313
+Epoch: 14 batch_id:100 lr:0.000100 Train Avg loss:0.021449, Avg acc:0.996250
+Epoch: 14 batch_id:120 lr:0.000100 Train Avg loss:0.020449, Avg acc:0.996875
+Epoch: 14 batch_id:140 lr:0.000100 Train Avg loss:0.020573, Avg acc:0.997321
+Epoch: 14 batch_id:160 lr:0.000100 Train Avg loss:0.020789, Avg acc:0.997266
+Epoch: 14 batch_id:180 lr:0.000100 Train Avg loss:0.020944, Avg acc:0.997222
+Epoch: 14 batch_id:200 lr:0.000100 Train Avg loss:0.020151, Avg acc:0.997500
+Epoch: 14 batch_id:220 lr:0.000100 Train Avg loss:0.019411, Avg acc:0.997727
+Epoch: 14 batch_id:240 lr:0.000100 Train Avg loss:0.019879, Avg acc:0.997396
+Epoch: 14 batch_id:260 lr:0.000100 Train Avg loss:0.019305, Avg acc:0.997596
+Epoch: 14 batch_id:280 lr:0.000100 Train Avg loss:0.018786, Avg acc:0.997545
+Epoch: 14 batch_id:300 lr:0.000100 Train Avg loss:0.018720, Avg acc:0.997708
+Epoch: 14 batch_id:320 lr:0.000100 Train Avg loss:0.018863, Avg acc:0.997656
+Epoch: 14 batch_id:340 lr:0.000100 Train Avg loss:0.018713, Avg acc:0.997610
+Epoch: 14 batch_id:360 lr:0.000100 Train Avg loss:0.018646, Avg acc:0.997569
+Epoch: 14 batch_id:380 lr:0.000100 Train Avg loss:0.019141, Avg acc:0.997368
+Epoch: 14 batch_id:400 lr:0.000100 Train Avg loss:0.019412, Avg acc:0.997344
+Epoch: 14 batch_id:420 lr:0.000100 Train Avg loss:0.019167, Avg acc:0.997470
+Epoch: 14 batch_id:440 lr:0.000100 Train Avg loss:0.018827, Avg acc:0.997585
+Epoch: 14 batch_id:460 lr:0.000100 Train Avg loss:0.019560, Avg acc:0.997418
+Epoch: 14 batch_id:480 lr:0.000100 Train Avg loss:0.019705, Avg acc:0.997526
+Epoch: 14 batch_id:500 lr:0.000100 Train Avg loss:0.020028, Avg acc:0.997500
+Epoch: 14 batch_id:520 lr:0.000100 Train Avg loss:0.020001, Avg acc:0.997476
+Epoch: 14 batch_id:540 lr:0.000100 Train Avg loss:0.019949, Avg acc:0.997569
+Epoch: 14 batch_id:560 lr:0.000100 Train Avg loss:0.019568, Avg acc:0.997656
+Epoch: 14 batch_id:580 lr:0.000100 Train Avg loss:0.019136, Avg acc:0.997737
+Epoch: 14 lr: 0.000100 Train Avg loss:0.019052, Avg acc:0.997798
+Epoch 14: batch_id:20 Validate Avg loss:0.353301, Avg acc:0.918750
+Epoch 14: batch_id:40 Validate Avg loss:0.304651, Avg acc:0.925000
+Epoch 14: batch_id:60 Validate Avg loss:0.296831, Avg acc:0.920833
+Epoch 14: batch_id:80 Validate Avg loss:0.298059, Avg acc:0.920312
+Epoch 14: batch_id:100 Validate Avg loss:0.315806, Avg acc:0.914375
+Epoch 14: batch_id:120 Validate Avg loss:0.303959, Avg acc:0.919792
+Epoch 14: batch_id:140 Validate Avg loss:0.301416, Avg acc:0.920536
+Epoch 14: batch_id:160 Validate Avg loss:0.315990, Avg acc:0.919531
+Epoch 14: batch_id:180 Validate Avg loss:0.314811, Avg acc:0.919444
+Epoch 14: batch_id:200 Validate Avg loss:0.323548, Avg acc:0.917813
+Epoch 14: batch_id:220 Validate Avg loss:0.322738, Avg acc:0.917614
+Epoch 14 Validate Avg loss:0.329134, Avg acc:0.916314
+Epoch: 15 batch_id:20 lr:0.000100 Train Avg loss:0.031387, Avg acc:0.993750
+Epoch: 15 batch_id:40 lr:0.000100 Train Avg loss:0.022436, Avg acc:0.995313
+Epoch: 15 batch_id:60 lr:0.000100 Train Avg loss:0.019462, Avg acc:0.996875
+Epoch: 15 batch_id:80 lr:0.000100 Train Avg loss:0.018430, Avg acc:0.997656
+Epoch: 15 batch_id:100 lr:0.000100 Train Avg loss:0.016675, Avg acc:0.998125
+Epoch: 15 batch_id:120 lr:0.000100 Train Avg loss:0.017944, Avg acc:0.997396
+Epoch: 15 batch_id:140 lr:0.000100 Train Avg loss:0.017226, Avg acc:0.997768
+Epoch: 15 batch_id:160 lr:0.000100 Train Avg loss:0.016965, Avg acc:0.997656
+Epoch: 15 batch_id:180 lr:0.000100 Train Avg loss:0.017266, Avg acc:0.997569
+Epoch: 15 batch_id:200 lr:0.000100 Train Avg loss:0.016864, Avg acc:0.997500
+Epoch: 15 batch_id:220 lr:0.000100 Train Avg loss:0.016784, Avg acc:0.997443
+Epoch: 15 batch_id:240 lr:0.000100 Train Avg loss:0.018234, Avg acc:0.997135
+Epoch: 15 batch_id:260 lr:0.000100 Train Avg loss:0.019618, Avg acc:0.996635
+Epoch: 15 batch_id:280 lr:0.000100 Train Avg loss:0.019414, Avg acc:0.996652
+Epoch: 15 batch_id:300 lr:0.000100 Train Avg loss:0.019332, Avg acc:0.996875
+Epoch: 15 batch_id:320 lr:0.000100 Train Avg loss:0.018864, Avg acc:0.996875
+Epoch: 15 batch_id:340 lr:0.000100 Train Avg loss:0.018814, Avg acc:0.996875
+Epoch: 15 batch_id:360 lr:0.000100 Train Avg loss:0.020595, Avg acc:0.996528
+Epoch: 15 batch_id:380 lr:0.000100 Train Avg loss:0.020460, Avg acc:0.996546
+Epoch: 15 batch_id:400 lr:0.000100 Train Avg loss:0.020275, Avg acc:0.996563
+Epoch: 15 batch_id:420 lr:0.000100 Train Avg loss:0.020009, Avg acc:0.996726
+Epoch: 15 batch_id:440 lr:0.000100 Train Avg loss:0.019975, Avg acc:0.996591
+Epoch: 15 batch_id:460 lr:0.000100 Train Avg loss:0.020408, Avg acc:0.996467
+Epoch: 15 batch_id:480 lr:0.000100 Train Avg loss:0.020081, Avg acc:0.996615
+Epoch: 15 batch_id:500 lr:0.000100 Train Avg loss:0.019796, Avg acc:0.996750
+Epoch: 15 batch_id:520 lr:0.000100 Train Avg loss:0.019456, Avg acc:0.996875
+Epoch: 15 batch_id:540 lr:0.000100 Train Avg loss:0.019285, Avg acc:0.996991
+Epoch: 15 batch_id:560 lr:0.000100 Train Avg loss:0.019253, Avg acc:0.997098
+Epoch: 15 batch_id:580 lr:0.000100 Train Avg loss:0.019198, Avg acc:0.997091
+Epoch: 15 lr: 0.000100 Train Avg loss:0.018886, Avg acc:0.997169
+Epoch 15: batch_id:20 Validate Avg loss:0.354820, Avg acc:0.909375
+Epoch 15: batch_id:40 Validate Avg loss:0.307128, Avg acc:0.920312
+Epoch 15: batch_id:60 Validate Avg loss:0.295565, Avg acc:0.920833
+Epoch 15: batch_id:80 Validate Avg loss:0.298665, Avg acc:0.921094
+Epoch 15: batch_id:100 Validate Avg loss:0.314201, Avg acc:0.912500
+Epoch 15: batch_id:120 Validate Avg loss:0.300868, Avg acc:0.917708
+Epoch 15: batch_id:140 Validate Avg loss:0.298061, Avg acc:0.918304
+Epoch 15: batch_id:160 Validate Avg loss:0.311953, Avg acc:0.917578
+Epoch 15: batch_id:180 Validate Avg loss:0.309522, Avg acc:0.917361
+Epoch 15: batch_id:200 Validate Avg loss:0.318525, Avg acc:0.916562
+Epoch 15: batch_id:220 Validate Avg loss:0.316969, Avg acc:0.916477
+Epoch 15 Validate Avg loss:0.322142, Avg acc:0.914725
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9163135593220338
+Epoch: 16 batch_id:20 lr:0.000100 Train Avg loss:0.010496, Avg acc:0.996875
+Epoch: 16 batch_id:40 lr:0.000100 Train Avg loss:0.014897, Avg acc:0.995313
+Epoch: 16 batch_id:60 lr:0.000100 Train Avg loss:0.014392, Avg acc:0.996875
+Epoch: 16 batch_id:80 lr:0.000100 Train Avg loss:0.012786, Avg acc:0.997656
+Epoch: 16 batch_id:100 lr:0.000100 Train Avg loss:0.013972, Avg acc:0.997500
+Epoch: 16 batch_id:120 lr:0.000100 Train Avg loss:0.016309, Avg acc:0.997396
+Epoch: 16 batch_id:140 lr:0.000100 Train Avg loss:0.016512, Avg acc:0.997321
+Epoch: 16 batch_id:160 lr:0.000100 Train Avg loss:0.017290, Avg acc:0.996875
+Epoch: 16 batch_id:180 lr:0.000100 Train Avg loss:0.017215, Avg acc:0.996875
+Epoch: 16 batch_id:200 lr:0.000100 Train Avg loss:0.017060, Avg acc:0.997188
+Epoch: 16 batch_id:220 lr:0.000100 Train Avg loss:0.018020, Avg acc:0.997159
+Epoch: 16 batch_id:240 lr:0.000100 Train Avg loss:0.018484, Avg acc:0.997135
+Epoch: 16 batch_id:260 lr:0.000100 Train Avg loss:0.017783, Avg acc:0.997356
+Epoch: 16 batch_id:280 lr:0.000100 Train Avg loss:0.017641, Avg acc:0.997321
+Epoch: 16 batch_id:300 lr:0.000100 Train Avg loss:0.016885, Avg acc:0.997500
+Epoch: 16 batch_id:320 lr:0.000100 Train Avg loss:0.016890, Avg acc:0.997656
+Epoch: 16 batch_id:340 lr:0.000100 Train Avg loss:0.016258, Avg acc:0.997794
+Epoch: 16 batch_id:360 lr:0.000100 Train Avg loss:0.016235, Avg acc:0.997743
+Epoch: 16 batch_id:380 lr:0.000100 Train Avg loss:0.016793, Avg acc:0.997533
+Epoch: 16 batch_id:400 lr:0.000100 Train Avg loss:0.016816, Avg acc:0.997500
+Epoch: 16 batch_id:420 lr:0.000100 Train Avg loss:0.016951, Avg acc:0.997470
+Epoch: 16 batch_id:440 lr:0.000100 Train Avg loss:0.016491, Avg acc:0.997585
+Epoch: 16 batch_id:460 lr:0.000100 Train Avg loss:0.016249, Avg acc:0.997690
+Epoch: 16 batch_id:480 lr:0.000100 Train Avg loss:0.016593, Avg acc:0.997656
+Epoch: 16 batch_id:500 lr:0.000100 Train Avg loss:0.016752, Avg acc:0.997500
+Epoch: 16 batch_id:520 lr:0.000100 Train Avg loss:0.016768, Avg acc:0.997476
+Epoch: 16 batch_id:540 lr:0.000100 Train Avg loss:0.016482, Avg acc:0.997569
+Epoch: 16 batch_id:560 lr:0.000100 Train Avg loss:0.016564, Avg acc:0.997545
+Epoch: 16 batch_id:580 lr:0.000100 Train Avg loss:0.016960, Avg acc:0.997522
+Epoch: 16 lr: 0.000100 Train Avg loss:0.016917, Avg acc:0.997483
+Epoch 16: batch_id:20 Validate Avg loss:0.362598, Avg acc:0.918750
+Epoch 16: batch_id:40 Validate Avg loss:0.308406, Avg acc:0.925000
+Epoch 16: batch_id:60 Validate Avg loss:0.299257, Avg acc:0.927083
+Epoch 16: batch_id:80 Validate Avg loss:0.300699, Avg acc:0.925000
+Epoch 16: batch_id:100 Validate Avg loss:0.316862, Avg acc:0.919375
+Epoch 16: batch_id:120 Validate Avg loss:0.303658, Avg acc:0.923438
+Epoch 16: batch_id:140 Validate Avg loss:0.301301, Avg acc:0.923661
+Epoch 16: batch_id:160 Validate Avg loss:0.314347, Avg acc:0.921875
+Epoch 16: batch_id:180 Validate Avg loss:0.311879, Avg acc:0.920833
+Epoch 16: batch_id:200 Validate Avg loss:0.322101, Avg acc:0.919687
+Epoch 16: batch_id:220 Validate Avg loss:0.320630, Avg acc:0.919602
+Epoch 16 Validate Avg loss:0.326820, Avg acc:0.917903
+Epoch: 17 batch_id:20 lr:0.000100 Train Avg loss:0.016944, Avg acc:1.000000
+Epoch: 17 batch_id:40 lr:0.000100 Train Avg loss:0.011775, Avg acc:1.000000
+Epoch: 17 batch_id:60 lr:0.000100 Train Avg loss:0.012307, Avg acc:1.000000
+Epoch: 17 batch_id:80 lr:0.000100 Train Avg loss:0.011060, Avg acc:1.000000
+Epoch: 17 batch_id:100 lr:0.000100 Train Avg loss:0.015630, Avg acc:0.998750
+Epoch: 17 batch_id:120 lr:0.000100 Train Avg loss:0.016124, Avg acc:0.998958
+Epoch: 17 batch_id:140 lr:0.000100 Train Avg loss:0.014872, Avg acc:0.999107
+Epoch: 17 batch_id:160 lr:0.000100 Train Avg loss:0.015802, Avg acc:0.998437
+Epoch: 17 batch_id:180 lr:0.000100 Train Avg loss:0.015584, Avg acc:0.998611
+Epoch: 17 batch_id:200 lr:0.000100 Train Avg loss:0.015524, Avg acc:0.998750
+Epoch: 17 batch_id:220 lr:0.000100 Train Avg loss:0.015429, Avg acc:0.998864
+Epoch: 17 batch_id:240 lr:0.000100 Train Avg loss:0.015693, Avg acc:0.998698
+Epoch: 17 batch_id:260 lr:0.000100 Train Avg loss:0.016498, Avg acc:0.998317
+Epoch: 17 batch_id:280 lr:0.000100 Train Avg loss:0.015877, Avg acc:0.998437
+Epoch: 17 batch_id:300 lr:0.000100 Train Avg loss:0.015925, Avg acc:0.998333
+Epoch: 17 batch_id:320 lr:0.000100 Train Avg loss:0.015554, Avg acc:0.998437
+Epoch: 17 batch_id:340 lr:0.000100 Train Avg loss:0.015367, Avg acc:0.998529
+Epoch: 17 batch_id:360 lr:0.000100 Train Avg loss:0.015524, Avg acc:0.998437
+Epoch: 17 batch_id:380 lr:0.000100 Train Avg loss:0.015281, Avg acc:0.998520
+Epoch: 17 batch_id:400 lr:0.000100 Train Avg loss:0.015174, Avg acc:0.998594
+Epoch: 17 batch_id:420 lr:0.000100 Train Avg loss:0.014947, Avg acc:0.998661
+Epoch: 17 batch_id:440 lr:0.000100 Train Avg loss:0.014846, Avg acc:0.998580
+Epoch: 17 batch_id:460 lr:0.000100 Train Avg loss:0.014683, Avg acc:0.998641
+Epoch: 17 batch_id:480 lr:0.000100 Train Avg loss:0.014715, Avg acc:0.998568
+Epoch: 17 batch_id:500 lr:0.000100 Train Avg loss:0.014663, Avg acc:0.998625
+Epoch: 17 batch_id:520 lr:0.000100 Train Avg loss:0.014906, Avg acc:0.998678
+Epoch: 17 batch_id:540 lr:0.000100 Train Avg loss:0.014773, Avg acc:0.998727
+Epoch: 17 batch_id:560 lr:0.000100 Train Avg loss:0.015213, Avg acc:0.998549
+Epoch: 17 batch_id:580 lr:0.000100 Train Avg loss:0.015801, Avg acc:0.998384
+Epoch: 17 lr: 0.000100 Train Avg loss:0.015665, Avg acc:0.998427
+Epoch 17: batch_id:20 Validate Avg loss:0.342198, Avg acc:0.918750
+Epoch 17: batch_id:40 Validate Avg loss:0.304673, Avg acc:0.923438
+Epoch 17: batch_id:60 Validate Avg loss:0.297310, Avg acc:0.923958
+Epoch 17: batch_id:80 Validate Avg loss:0.300011, Avg acc:0.921875
+Epoch 17: batch_id:100 Validate Avg loss:0.315775, Avg acc:0.916250
+Epoch 17: batch_id:120 Validate Avg loss:0.298510, Avg acc:0.921875
+Epoch 17: batch_id:140 Validate Avg loss:0.297628, Avg acc:0.920982
+Epoch 17: batch_id:160 Validate Avg loss:0.311529, Avg acc:0.917969
+Epoch 17: batch_id:180 Validate Avg loss:0.310206, Avg acc:0.917708
+Epoch 17: batch_id:200 Validate Avg loss:0.317966, Avg acc:0.916250
+Epoch 17: batch_id:220 Validate Avg loss:0.315122, Avg acc:0.916761
+Epoch 17 Validate Avg loss:0.321727, Avg acc:0.915254
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9179025423728814
+Epoch: 18 batch_id:20 lr:0.000100 Train Avg loss:0.016318, Avg acc:1.000000
+Epoch: 18 batch_id:40 lr:0.000100 Train Avg loss:0.012632, Avg acc:1.000000
+Epoch: 18 batch_id:60 lr:0.000100 Train Avg loss:0.014125, Avg acc:0.998958
+Epoch: 18 batch_id:80 lr:0.000100 Train Avg loss:0.016109, Avg acc:0.996875
+Epoch: 18 batch_id:100 lr:0.000100 Train Avg loss:0.018244, Avg acc:0.996875
+Epoch: 18 batch_id:120 lr:0.000100 Train Avg loss:0.017378, Avg acc:0.997396
+Epoch: 18 batch_id:140 lr:0.000100 Train Avg loss:0.017444, Avg acc:0.997321
+Epoch: 18 batch_id:160 lr:0.000100 Train Avg loss:0.019614, Avg acc:0.996484
+Epoch: 18 batch_id:180 lr:0.000100 Train Avg loss:0.018932, Avg acc:0.996528
+Epoch: 18 batch_id:200 lr:0.000100 Train Avg loss:0.018157, Avg acc:0.996875
+Epoch: 18 batch_id:220 lr:0.000100 Train Avg loss:0.017457, Avg acc:0.997159
+Epoch: 18 batch_id:240 lr:0.000100 Train Avg loss:0.016732, Avg acc:0.997135
+Epoch: 18 batch_id:260 lr:0.000100 Train Avg loss:0.015965, Avg acc:0.997356
+Epoch: 18 batch_id:280 lr:0.000100 Train Avg loss:0.016218, Avg acc:0.997321
+Epoch: 18 batch_id:300 lr:0.000100 Train Avg loss:0.016863, Avg acc:0.997292
+Epoch: 18 batch_id:320 lr:0.000100 Train Avg loss:0.016826, Avg acc:0.997461
+Epoch: 18 batch_id:340 lr:0.000100 Train Avg loss:0.016477, Avg acc:0.997610
+Epoch: 18 batch_id:360 lr:0.000100 Train Avg loss:0.016448, Avg acc:0.997569
+Epoch: 18 batch_id:380 lr:0.000100 Train Avg loss:0.016112, Avg acc:0.997697
+Epoch: 18 batch_id:400 lr:0.000100 Train Avg loss:0.016835, Avg acc:0.997344
+Epoch: 18 batch_id:420 lr:0.000100 Train Avg loss:0.016474, Avg acc:0.997470
+Epoch: 18 batch_id:440 lr:0.000100 Train Avg loss:0.016299, Avg acc:0.997585
+Epoch: 18 batch_id:460 lr:0.000100 Train Avg loss:0.016130, Avg acc:0.997554
+Epoch: 18 batch_id:480 lr:0.000100 Train Avg loss:0.016011, Avg acc:0.997526
+Epoch: 18 batch_id:500 lr:0.000100 Train Avg loss:0.015867, Avg acc:0.997625
+Epoch: 18 batch_id:520 lr:0.000100 Train Avg loss:0.015924, Avg acc:0.997716
+Epoch: 18 batch_id:540 lr:0.000100 Train Avg loss:0.015955, Avg acc:0.997685
+Epoch: 18 batch_id:560 lr:0.000100 Train Avg loss:0.015681, Avg acc:0.997656
+Epoch: 18 batch_id:580 lr:0.000100 Train Avg loss:0.015973, Avg acc:0.997522
+Epoch: 18 lr: 0.000100 Train Avg loss:0.015844, Avg acc:0.997588
+Epoch 18: batch_id:20 Validate Avg loss:0.353930, Avg acc:0.912500
+Epoch 18: batch_id:40 Validate Avg loss:0.306550, Avg acc:0.921875
+Epoch 18: batch_id:60 Validate Avg loss:0.294624, Avg acc:0.921875
+Epoch 18: batch_id:80 Validate Avg loss:0.294913, Avg acc:0.922656
+Epoch 18: batch_id:100 Validate Avg loss:0.308680, Avg acc:0.919375
+Epoch 18: batch_id:120 Validate Avg loss:0.293062, Avg acc:0.925521
+Epoch 18: batch_id:140 Validate Avg loss:0.290478, Avg acc:0.926786
+Epoch 18: batch_id:160 Validate Avg loss:0.302960, Avg acc:0.925000
+Epoch 18: batch_id:180 Validate Avg loss:0.301062, Avg acc:0.924306
+Epoch 18: batch_id:200 Validate Avg loss:0.312039, Avg acc:0.922188
+Epoch 18: batch_id:220 Validate Avg loss:0.310538, Avg acc:0.923011
+Epoch 18 Validate Avg loss:0.316774, Avg acc:0.921081
+Epoch: 19 batch_id:20 lr:0.000100 Train Avg loss:0.030101, Avg acc:0.993750
+Epoch: 19 batch_id:40 lr:0.000100 Train Avg loss:0.028298, Avg acc:0.995313
+Epoch: 19 batch_id:60 lr:0.000100 Train Avg loss:0.022774, Avg acc:0.995833
+Epoch: 19 batch_id:80 lr:0.000100 Train Avg loss:0.022225, Avg acc:0.996094
+Epoch: 19 batch_id:100 lr:0.000100 Train Avg loss:0.019953, Avg acc:0.996250
+Epoch: 19 batch_id:120 lr:0.000100 Train Avg loss:0.020582, Avg acc:0.995833
+Epoch: 19 batch_id:140 lr:0.000100 Train Avg loss:0.018610, Avg acc:0.996429
+Epoch: 19 batch_id:160 lr:0.000100 Train Avg loss:0.019248, Avg acc:0.996484
+Epoch: 19 batch_id:180 lr:0.000100 Train Avg loss:0.018711, Avg acc:0.996528
+Epoch: 19 batch_id:200 lr:0.000100 Train Avg loss:0.017592, Avg acc:0.996875
+Epoch: 19 batch_id:220 lr:0.000100 Train Avg loss:0.017614, Avg acc:0.996875
+Epoch: 19 batch_id:240 lr:0.000100 Train Avg loss:0.018188, Avg acc:0.996615
+Epoch: 19 batch_id:260 lr:0.000100 Train Avg loss:0.017646, Avg acc:0.996635
+Epoch: 19 batch_id:280 lr:0.000100 Train Avg loss:0.017186, Avg acc:0.996875
+Epoch: 19 batch_id:300 lr:0.000100 Train Avg loss:0.016869, Avg acc:0.997083
+Epoch: 19 batch_id:320 lr:0.000100 Train Avg loss:0.016469, Avg acc:0.997266
+Epoch: 19 batch_id:340 lr:0.000100 Train Avg loss:0.016555, Avg acc:0.997243
+Epoch: 19 batch_id:360 lr:0.000100 Train Avg loss:0.016092, Avg acc:0.997396
+Epoch: 19 batch_id:380 lr:0.000100 Train Avg loss:0.015592, Avg acc:0.997533
+Epoch: 19 batch_id:400 lr:0.000100 Train Avg loss:0.015314, Avg acc:0.997656
+Epoch: 19 batch_id:420 lr:0.000100 Train Avg loss:0.015397, Avg acc:0.997619
+Epoch: 19 batch_id:440 lr:0.000100 Train Avg loss:0.015542, Avg acc:0.997585
+Epoch: 19 batch_id:460 lr:0.000100 Train Avg loss:0.015479, Avg acc:0.997554
+Epoch: 19 batch_id:480 lr:0.000100 Train Avg loss:0.015169, Avg acc:0.997656
+Epoch: 19 batch_id:500 lr:0.000100 Train Avg loss:0.015166, Avg acc:0.997625
+Epoch: 19 batch_id:520 lr:0.000100 Train Avg loss:0.015474, Avg acc:0.997476
+Epoch: 19 batch_id:540 lr:0.000100 Train Avg loss:0.015284, Avg acc:0.997454
+Epoch: 19 batch_id:560 lr:0.000100 Train Avg loss:0.015266, Avg acc:0.997545
+Epoch: 19 batch_id:580 lr:0.000100 Train Avg loss:0.015156, Avg acc:0.997522
+Epoch: 19 lr: 0.000100 Train Avg loss:0.015019, Avg acc:0.997588
+Epoch 19: batch_id:20 Validate Avg loss:0.348650, Avg acc:0.918750
+Epoch 19: batch_id:40 Validate Avg loss:0.303196, Avg acc:0.923438
+Epoch 19: batch_id:60 Validate Avg loss:0.296786, Avg acc:0.919792
+Epoch 19: batch_id:80 Validate Avg loss:0.297064, Avg acc:0.921094
+Epoch 19: batch_id:100 Validate Avg loss:0.309212, Avg acc:0.918125
+Epoch 19: batch_id:120 Validate Avg loss:0.295078, Avg acc:0.922396
+Epoch 19: batch_id:140 Validate Avg loss:0.291340, Avg acc:0.923214
+Epoch 19: batch_id:160 Validate Avg loss:0.304798, Avg acc:0.921484
+Epoch 19: batch_id:180 Validate Avg loss:0.303727, Avg acc:0.921181
+Epoch 19: batch_id:200 Validate Avg loss:0.312867, Avg acc:0.919063
+Epoch 19: batch_id:220 Validate Avg loss:0.310519, Avg acc:0.919602
+Epoch 19 Validate Avg loss:0.315588, Avg acc:0.917903
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9210805084745762
+Epoch: 20 batch_id:20 lr:0.000100 Train Avg loss:0.016262, Avg acc:1.000000
+Epoch: 20 batch_id:40 lr:0.000100 Train Avg loss:0.014803, Avg acc:1.000000
+Epoch: 20 batch_id:60 lr:0.000100 Train Avg loss:0.015292, Avg acc:1.000000
+Epoch: 20 batch_id:80 lr:0.000100 Train Avg loss:0.016145, Avg acc:0.999219
+Epoch: 20 batch_id:100 lr:0.000100 Train Avg loss:0.015411, Avg acc:0.999375
+Epoch: 20 batch_id:120 lr:0.000100 Train Avg loss:0.013973, Avg acc:0.999479
+Epoch: 20 batch_id:140 lr:0.000100 Train Avg loss:0.013792, Avg acc:0.999554
+Epoch: 20 batch_id:160 lr:0.000100 Train Avg loss:0.014371, Avg acc:0.998828
+Epoch: 20 batch_id:180 lr:0.000100 Train Avg loss:0.014630, Avg acc:0.998958
+Epoch: 20 batch_id:200 lr:0.000100 Train Avg loss:0.014877, Avg acc:0.998750
+Epoch: 20 batch_id:220 lr:0.000100 Train Avg loss:0.013942, Avg acc:0.998864
+Epoch: 20 batch_id:240 lr:0.000100 Train Avg loss:0.013571, Avg acc:0.998958
+Epoch: 20 batch_id:260 lr:0.000100 Train Avg loss:0.013012, Avg acc:0.999038
+Epoch: 20 batch_id:280 lr:0.000100 Train Avg loss:0.013748, Avg acc:0.998884
+Epoch: 20 batch_id:300 lr:0.000100 Train Avg loss:0.013118, Avg acc:0.998958
+Epoch: 20 batch_id:320 lr:0.000100 Train Avg loss:0.013374, Avg acc:0.998828
+Epoch: 20 batch_id:340 lr:0.000100 Train Avg loss:0.013455, Avg acc:0.998897
+Epoch: 20 batch_id:360 lr:0.000100 Train Avg loss:0.013722, Avg acc:0.998785
+Epoch: 20 batch_id:380 lr:0.000100 Train Avg loss:0.014042, Avg acc:0.998684
+Epoch: 20 batch_id:400 lr:0.000100 Train Avg loss:0.014144, Avg acc:0.998594
+Epoch: 20 batch_id:420 lr:0.000100 Train Avg loss:0.014159, Avg acc:0.998512
+Epoch: 20 batch_id:440 lr:0.000100 Train Avg loss:0.013922, Avg acc:0.998580
+Epoch: 20 batch_id:460 lr:0.000100 Train Avg loss:0.013929, Avg acc:0.998641
+Epoch: 20 batch_id:480 lr:0.000100 Train Avg loss:0.013634, Avg acc:0.998698
+Epoch: 20 batch_id:500 lr:0.000100 Train Avg loss:0.014039, Avg acc:0.998625
+Epoch: 20 batch_id:520 lr:0.000100 Train Avg loss:0.013789, Avg acc:0.998678
+Epoch: 20 batch_id:540 lr:0.000100 Train Avg loss:0.014408, Avg acc:0.998611
+Epoch: 20 batch_id:560 lr:0.000100 Train Avg loss:0.014463, Avg acc:0.998661
+Epoch: 20 batch_id:580 lr:0.000100 Train Avg loss:0.014397, Avg acc:0.998707
+Epoch: 20 lr: 0.000100 Train Avg loss:0.014396, Avg acc:0.998742
+Epoch 20: batch_id:20 Validate Avg loss:0.349130, Avg acc:0.915625
+Epoch 20: batch_id:40 Validate Avg loss:0.298485, Avg acc:0.921875
+Epoch 20: batch_id:60 Validate Avg loss:0.291961, Avg acc:0.923958
+Epoch 20: batch_id:80 Validate Avg loss:0.292345, Avg acc:0.921875
+Epoch 20: batch_id:100 Validate Avg loss:0.306909, Avg acc:0.918125
+Epoch 20: batch_id:120 Validate Avg loss:0.292918, Avg acc:0.923958
+Epoch 20: batch_id:140 Validate Avg loss:0.289415, Avg acc:0.925000
+Epoch 20: batch_id:160 Validate Avg loss:0.304758, Avg acc:0.923047
+Epoch 20: batch_id:180 Validate Avg loss:0.303885, Avg acc:0.921875
+Epoch 20: batch_id:200 Validate Avg loss:0.313514, Avg acc:0.920000
+Epoch 20: batch_id:220 Validate Avg loss:0.311560, Avg acc:0.919886
+Epoch 20 Validate Avg loss:0.316558, Avg acc:0.917903
+- Validation Prec@1 saturates for 2 epochs. Best acc0.9210805084745762
+Epoch: 21 batch_id:20 lr:0.000100 Train Avg loss:0.013254, Avg acc:1.000000
+Epoch: 21 batch_id:40 lr:0.000100 Train Avg loss:0.010565, Avg acc:1.000000
+Epoch: 21 batch_id:60 lr:0.000100 Train Avg loss:0.012873, Avg acc:1.000000
+Epoch: 21 batch_id:80 lr:0.000100 Train Avg loss:0.013014, Avg acc:0.999219
+Epoch: 21 batch_id:100 lr:0.000100 Train Avg loss:0.013681, Avg acc:0.998750
+Epoch: 21 batch_id:120 lr:0.000100 Train Avg loss:0.015890, Avg acc:0.997917
+Epoch: 21 batch_id:140 lr:0.000100 Train Avg loss:0.014538, Avg acc:0.998214
+Epoch: 21 batch_id:160 lr:0.000100 Train Avg loss:0.015727, Avg acc:0.998047
+Epoch: 21 batch_id:180 lr:0.000100 Train Avg loss:0.014600, Avg acc:0.998264
+Epoch: 21 batch_id:200 lr:0.000100 Train Avg loss:0.015079, Avg acc:0.998437
+Epoch: 21 batch_id:220 lr:0.000100 Train Avg loss:0.014898, Avg acc:0.998295
+Epoch: 21 batch_id:240 lr:0.000100 Train Avg loss:0.015212, Avg acc:0.998177
+Epoch: 21 batch_id:260 lr:0.000100 Train Avg loss:0.014772, Avg acc:0.998317
+Epoch: 21 batch_id:280 lr:0.000100 Train Avg loss:0.014160, Avg acc:0.998437
+Epoch: 21 batch_id:300 lr:0.000100 Train Avg loss:0.014459, Avg acc:0.998542
+Epoch: 21 batch_id:320 lr:0.000100 Train Avg loss:0.013983, Avg acc:0.998633
+Epoch: 21 batch_id:340 lr:0.000100 Train Avg loss:0.014012, Avg acc:0.998529
+Epoch: 21 batch_id:360 lr:0.000100 Train Avg loss:0.013705, Avg acc:0.998611
+Epoch: 21 batch_id:380 lr:0.000100 Train Avg loss:0.013637, Avg acc:0.998684
+Epoch: 21 batch_id:400 lr:0.000100 Train Avg loss:0.013397, Avg acc:0.998750
+Epoch: 21 batch_id:420 lr:0.000100 Train Avg loss:0.013339, Avg acc:0.998810
+Epoch: 21 batch_id:440 lr:0.000100 Train Avg loss:0.013195, Avg acc:0.998722
+Epoch: 21 batch_id:460 lr:0.000100 Train Avg loss:0.013760, Avg acc:0.998505
+Epoch: 21 batch_id:480 lr:0.000100 Train Avg loss:0.014234, Avg acc:0.998437
+Epoch: 21 batch_id:500 lr:0.000100 Train Avg loss:0.014073, Avg acc:0.998375
+Epoch: 21 batch_id:520 lr:0.000100 Train Avg loss:0.014187, Avg acc:0.998437
+Epoch: 21 batch_id:540 lr:0.000100 Train Avg loss:0.014107, Avg acc:0.998380
+Epoch: 21 batch_id:560 lr:0.000100 Train Avg loss:0.014028, Avg acc:0.998437
+Epoch: 21 batch_id:580 lr:0.000100 Train Avg loss:0.014192, Avg acc:0.998384
+Epoch: 21 lr: 0.000100 Train Avg loss:0.014127, Avg acc:0.998427
+Epoch 21: batch_id:20 Validate Avg loss:0.331365, Avg acc:0.921875
+Epoch 21: batch_id:40 Validate Avg loss:0.288868, Avg acc:0.926562
+Epoch 21: batch_id:60 Validate Avg loss:0.279107, Avg acc:0.927083
+Epoch 21: batch_id:80 Validate Avg loss:0.286535, Avg acc:0.924219
+Epoch 21: batch_id:100 Validate Avg loss:0.299058, Avg acc:0.919375
+Epoch 21: batch_id:120 Validate Avg loss:0.284966, Avg acc:0.924479
+Epoch 21: batch_id:140 Validate Avg loss:0.281256, Avg acc:0.925446
+Epoch 21: batch_id:160 Validate Avg loss:0.296664, Avg acc:0.924219
+Epoch 21: batch_id:180 Validate Avg loss:0.295611, Avg acc:0.923611
+Epoch 21: batch_id:200 Validate Avg loss:0.304784, Avg acc:0.921562
+Epoch 21: batch_id:220 Validate Avg loss:0.302380, Avg acc:0.922159
+Epoch 21 Validate Avg loss:0.307424, Avg acc:0.920286
+- Validation Prec@1 saturates for 3 epochs. Best acc0.9210805084745762
+Epoch: 22 batch_id:20 lr:0.000100 Train Avg loss:0.010194, Avg acc:1.000000
+Epoch: 22 batch_id:40 lr:0.000100 Train Avg loss:0.007959, Avg acc:1.000000
+Epoch: 22 batch_id:60 lr:0.000100 Train Avg loss:0.007885, Avg acc:1.000000
+Epoch: 22 batch_id:80 lr:0.000100 Train Avg loss:0.014504, Avg acc:0.997656
+Epoch: 22 batch_id:100 lr:0.000100 Train Avg loss:0.013467, Avg acc:0.998125
+Epoch: 22 batch_id:120 lr:0.000100 Train Avg loss:0.012003, Avg acc:0.998437
+Epoch: 22 batch_id:140 lr:0.000100 Train Avg loss:0.011338, Avg acc:0.998661
+Epoch: 22 batch_id:160 lr:0.000100 Train Avg loss:0.013106, Avg acc:0.998047
+Epoch: 22 batch_id:180 lr:0.000100 Train Avg loss:0.012834, Avg acc:0.998264
+Epoch: 22 batch_id:200 lr:0.000100 Train Avg loss:0.014011, Avg acc:0.997812
+Epoch: 22 batch_id:220 lr:0.000100 Train Avg loss:0.014282, Avg acc:0.997727
+Epoch: 22 batch_id:240 lr:0.000100 Train Avg loss:0.014354, Avg acc:0.997656
+Epoch: 22 batch_id:260 lr:0.000100 Train Avg loss:0.014641, Avg acc:0.997837
+Epoch: 22 batch_id:280 lr:0.000100 Train Avg loss:0.014633, Avg acc:0.997768
+Epoch: 22 batch_id:300 lr:0.000100 Train Avg loss:0.015129, Avg acc:0.997708
+Epoch: 22 batch_id:320 lr:0.000100 Train Avg loss:0.015327, Avg acc:0.997852
+Epoch: 22 batch_id:340 lr:0.000100 Train Avg loss:0.016188, Avg acc:0.997794
+Epoch: 22 batch_id:360 lr:0.000100 Train Avg loss:0.015672, Avg acc:0.997917
+Epoch: 22 batch_id:380 lr:0.000100 Train Avg loss:0.015775, Avg acc:0.998026
+Epoch: 22 batch_id:400 lr:0.000100 Train Avg loss:0.015444, Avg acc:0.998125
+Epoch: 22 batch_id:420 lr:0.000100 Train Avg loss:0.015026, Avg acc:0.998214
+Epoch: 22 batch_id:440 lr:0.000100 Train Avg loss:0.014649, Avg acc:0.998295
+Epoch: 22 batch_id:460 lr:0.000100 Train Avg loss:0.015027, Avg acc:0.998098
+Epoch: 22 batch_id:480 lr:0.000100 Train Avg loss:0.014778, Avg acc:0.998177
+Epoch: 22 batch_id:500 lr:0.000100 Train Avg loss:0.014468, Avg acc:0.998250
+Epoch: 22 batch_id:520 lr:0.000100 Train Avg loss:0.014315, Avg acc:0.998317
+Epoch: 22 batch_id:540 lr:0.000100 Train Avg loss:0.014035, Avg acc:0.998380
+Epoch: 22 batch_id:560 lr:0.000100 Train Avg loss:0.013971, Avg acc:0.998437
+Epoch: 22 batch_id:580 lr:0.000100 Train Avg loss:0.013962, Avg acc:0.998491
+Epoch: 22 lr: 0.000100 Train Avg loss:0.014492, Avg acc:0.998217
+Epoch 22: batch_id:20 Validate Avg loss:0.362134, Avg acc:0.909375
+Epoch 22: batch_id:40 Validate Avg loss:0.305630, Avg acc:0.915625
+Epoch 22: batch_id:60 Validate Avg loss:0.294212, Avg acc:0.919792
+Epoch 22: batch_id:80 Validate Avg loss:0.297075, Avg acc:0.919531
+Epoch 22: batch_id:100 Validate Avg loss:0.307098, Avg acc:0.917500
+Epoch 22: batch_id:120 Validate Avg loss:0.293266, Avg acc:0.922917
+Epoch 22: batch_id:140 Validate Avg loss:0.288027, Avg acc:0.925893
+Epoch 22: batch_id:160 Validate Avg loss:0.300907, Avg acc:0.923047
+Epoch 22: batch_id:180 Validate Avg loss:0.298801, Avg acc:0.922222
+Epoch 22: batch_id:200 Validate Avg loss:0.308725, Avg acc:0.921875
+Epoch 22: batch_id:220 Validate Avg loss:0.306209, Avg acc:0.922727
+Epoch 22 Validate Avg loss:0.311347, Avg acc:0.920816
+- Validation Prec@1 saturates for 4 epochs. Best acc0.9210805084745762
+Epoch: 23 batch_id:20 lr:0.000100 Train Avg loss:0.007870, Avg acc:1.000000
+Epoch: 23 batch_id:40 lr:0.000100 Train Avg loss:0.007411, Avg acc:1.000000
+Epoch: 23 batch_id:60 lr:0.000100 Train Avg loss:0.009621, Avg acc:1.000000
+Epoch: 23 batch_id:80 lr:0.000100 Train Avg loss:0.010001, Avg acc:1.000000
+Epoch: 23 batch_id:100 lr:0.000100 Train Avg loss:0.010978, Avg acc:0.999375
+Epoch: 23 batch_id:120 lr:0.000100 Train Avg loss:0.010659, Avg acc:0.999479
+Epoch: 23 batch_id:140 lr:0.000100 Train Avg loss:0.011163, Avg acc:0.999107
+Epoch: 23 batch_id:160 lr:0.000100 Train Avg loss:0.010973, Avg acc:0.999219
+Epoch: 23 batch_id:180 lr:0.000100 Train Avg loss:0.011027, Avg acc:0.999306
+Epoch: 23 batch_id:200 lr:0.000100 Train Avg loss:0.011136, Avg acc:0.999062
+Epoch: 23 batch_id:220 lr:0.000100 Train Avg loss:0.011692, Avg acc:0.998864
+Epoch: 23 batch_id:240 lr:0.000100 Train Avg loss:0.012152, Avg acc:0.998698
+Epoch: 23 batch_id:260 lr:0.000100 Train Avg loss:0.011957, Avg acc:0.998798
+Epoch: 23 batch_id:280 lr:0.000100 Train Avg loss:0.011950, Avg acc:0.998884
+Epoch: 23 batch_id:300 lr:0.000100 Train Avg loss:0.011936, Avg acc:0.998750
+Epoch: 23 batch_id:320 lr:0.000100 Train Avg loss:0.011675, Avg acc:0.998828
+Epoch: 23 batch_id:340 lr:0.000100 Train Avg loss:0.011238, Avg acc:0.998897
+Epoch: 23 batch_id:360 lr:0.000100 Train Avg loss:0.011292, Avg acc:0.998958
+Epoch: 23 batch_id:380 lr:0.000100 Train Avg loss:0.011151, Avg acc:0.999013
+Epoch: 23 batch_id:400 lr:0.000100 Train Avg loss:0.011833, Avg acc:0.998750
+Epoch: 23 batch_id:420 lr:0.000100 Train Avg loss:0.011556, Avg acc:0.998810
+Epoch: 23 batch_id:440 lr:0.000100 Train Avg loss:0.011890, Avg acc:0.998437
+Epoch: 23 batch_id:460 lr:0.000100 Train Avg loss:0.011716, Avg acc:0.998505
+Epoch: 23 batch_id:480 lr:0.000100 Train Avg loss:0.011829, Avg acc:0.998307
+Epoch: 23 batch_id:500 lr:0.000100 Train Avg loss:0.011661, Avg acc:0.998375
+Epoch: 23 batch_id:520 lr:0.000100 Train Avg loss:0.011636, Avg acc:0.998437
+Epoch: 23 batch_id:540 lr:0.000100 Train Avg loss:0.011626, Avg acc:0.998380
+Epoch: 23 batch_id:560 lr:0.000100 Train Avg loss:0.011493, Avg acc:0.998437
+Epoch: 23 batch_id:580 lr:0.000100 Train Avg loss:0.011683, Avg acc:0.998491
+Epoch: 23 lr: 0.000100 Train Avg loss:0.011550, Avg acc:0.998532
+Epoch 23: batch_id:20 Validate Avg loss:0.356338, Avg acc:0.909375
+Epoch 23: batch_id:40 Validate Avg loss:0.300555, Avg acc:0.921875
+Epoch 23: batch_id:60 Validate Avg loss:0.292905, Avg acc:0.921875
+Epoch 23: batch_id:80 Validate Avg loss:0.294413, Avg acc:0.922656
+Epoch 23: batch_id:100 Validate Avg loss:0.304300, Avg acc:0.919375
+Epoch 23: batch_id:120 Validate Avg loss:0.290721, Avg acc:0.925521
+Epoch 23: batch_id:140 Validate Avg loss:0.288714, Avg acc:0.926786
+Epoch 23: batch_id:160 Validate Avg loss:0.300894, Avg acc:0.924609
+Epoch 23: batch_id:180 Validate Avg loss:0.300323, Avg acc:0.923611
+Epoch 23: batch_id:200 Validate Avg loss:0.309361, Avg acc:0.921250
+Epoch 23: batch_id:220 Validate Avg loss:0.306831, Avg acc:0.921591
+Epoch 23 Validate Avg loss:0.312642, Avg acc:0.919492
+- Validation Prec@1 saturates for 5 epochs. Best acc0.9210805084745762
+learning rate decay by 0.1. 
+Epoch: 24 batch_id:20 lr:0.000010 Train Avg loss:0.009559, Avg acc:1.000000
+Epoch: 24 batch_id:40 lr:0.000010 Train Avg loss:0.011687, Avg acc:0.998437
+Epoch: 24 batch_id:60 lr:0.000010 Train Avg loss:0.018961, Avg acc:0.996875
+Epoch: 24 batch_id:80 lr:0.000010 Train Avg loss:0.016966, Avg acc:0.997656
+Epoch: 24 batch_id:100 lr:0.000010 Train Avg loss:0.020432, Avg acc:0.997500
+Epoch: 24 batch_id:120 lr:0.000010 Train Avg loss:0.018547, Avg acc:0.997917
+Epoch: 24 batch_id:140 lr:0.000010 Train Avg loss:0.017678, Avg acc:0.998214
+Epoch: 24 batch_id:160 lr:0.000010 Train Avg loss:0.017594, Avg acc:0.998047
+Epoch: 24 batch_id:180 lr:0.000010 Train Avg loss:0.016695, Avg acc:0.998264
+Epoch: 24 batch_id:200 lr:0.000010 Train Avg loss:0.015919, Avg acc:0.998437
+Epoch: 24 batch_id:220 lr:0.000010 Train Avg loss:0.015287, Avg acc:0.998580
+Epoch: 24 batch_id:240 lr:0.000010 Train Avg loss:0.014495, Avg acc:0.998698
+Epoch: 24 batch_id:260 lr:0.000010 Train Avg loss:0.015393, Avg acc:0.998317
+Epoch: 24 batch_id:280 lr:0.000010 Train Avg loss:0.015580, Avg acc:0.998214
+Epoch: 24 batch_id:300 lr:0.000010 Train Avg loss:0.015354, Avg acc:0.998333
+Epoch: 24 batch_id:320 lr:0.000010 Train Avg loss:0.015176, Avg acc:0.998047
+Epoch: 24 batch_id:340 lr:0.000010 Train Avg loss:0.014918, Avg acc:0.998162
+Epoch: 24 batch_id:360 lr:0.000010 Train Avg loss:0.014424, Avg acc:0.998264
+Epoch: 24 batch_id:380 lr:0.000010 Train Avg loss:0.014355, Avg acc:0.998355
+Epoch: 24 batch_id:400 lr:0.000010 Train Avg loss:0.013956, Avg acc:0.998437
+Epoch: 24 batch_id:420 lr:0.000010 Train Avg loss:0.014407, Avg acc:0.998214
+Epoch: 24 batch_id:440 lr:0.000010 Train Avg loss:0.014388, Avg acc:0.998295
+Epoch: 24 batch_id:460 lr:0.000010 Train Avg loss:0.014292, Avg acc:0.998370
+Epoch: 24 batch_id:480 lr:0.000010 Train Avg loss:0.014462, Avg acc:0.998307
+Epoch: 24 batch_id:500 lr:0.000010 Train Avg loss:0.014645, Avg acc:0.998250
+Epoch: 24 batch_id:520 lr:0.000010 Train Avg loss:0.014677, Avg acc:0.998077
+Epoch: 24 batch_id:540 lr:0.000010 Train Avg loss:0.014620, Avg acc:0.998148
+Epoch: 24 batch_id:560 lr:0.000010 Train Avg loss:0.014328, Avg acc:0.998214
+Epoch: 24 batch_id:580 lr:0.000010 Train Avg loss:0.014337, Avg acc:0.998168
+Epoch: 24 lr: 0.000010 Train Avg loss:0.014463, Avg acc:0.998112
+Epoch 24: batch_id:20 Validate Avg loss:0.358597, Avg acc:0.909375
+Epoch 24: batch_id:40 Validate Avg loss:0.312953, Avg acc:0.915625
+Epoch 24: batch_id:60 Validate Avg loss:0.303967, Avg acc:0.917708
+Epoch 24: batch_id:80 Validate Avg loss:0.302964, Avg acc:0.918750
+Epoch 24: batch_id:100 Validate Avg loss:0.313958, Avg acc:0.914375
+Epoch 24: batch_id:120 Validate Avg loss:0.299586, Avg acc:0.919271
+Epoch 24: batch_id:140 Validate Avg loss:0.295899, Avg acc:0.920536
+Epoch 24: batch_id:160 Validate Avg loss:0.307511, Avg acc:0.918359
+Epoch 24: batch_id:180 Validate Avg loss:0.305579, Avg acc:0.918403
+Epoch 24: batch_id:200 Validate Avg loss:0.314914, Avg acc:0.915937
+Epoch 24: batch_id:220 Validate Avg loss:0.312446, Avg acc:0.917045
+Epoch 24 Validate Avg loss:0.318558, Avg acc:0.914989
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9210805084745762
+Epoch: 25 batch_id:20 lr:0.000010 Train Avg loss:0.011451, Avg acc:1.000000
+Epoch: 25 batch_id:40 lr:0.000010 Train Avg loss:0.009276, Avg acc:1.000000
+Epoch: 25 batch_id:60 lr:0.000010 Train Avg loss:0.008360, Avg acc:1.000000
+Epoch: 25 batch_id:80 lr:0.000010 Train Avg loss:0.009190, Avg acc:0.999219
+Epoch: 25 batch_id:100 lr:0.000010 Train Avg loss:0.010037, Avg acc:0.998750
+Epoch: 25 batch_id:120 lr:0.000010 Train Avg loss:0.010877, Avg acc:0.998958
+Epoch: 25 batch_id:140 lr:0.000010 Train Avg loss:0.010800, Avg acc:0.999107
+Epoch: 25 batch_id:160 lr:0.000010 Train Avg loss:0.011421, Avg acc:0.998828
+Epoch: 25 batch_id:180 lr:0.000010 Train Avg loss:0.011838, Avg acc:0.998958
+Epoch: 25 batch_id:200 lr:0.000010 Train Avg loss:0.013832, Avg acc:0.998125
+Epoch: 25 batch_id:220 lr:0.000010 Train Avg loss:0.013203, Avg acc:0.998295
+Epoch: 25 batch_id:240 lr:0.000010 Train Avg loss:0.013989, Avg acc:0.998177
+Epoch: 25 batch_id:260 lr:0.000010 Train Avg loss:0.013832, Avg acc:0.998077
+Epoch: 25 batch_id:280 lr:0.000010 Train Avg loss:0.013560, Avg acc:0.998214
+Epoch: 25 batch_id:300 lr:0.000010 Train Avg loss:0.013121, Avg acc:0.998333
+Epoch: 25 batch_id:320 lr:0.000010 Train Avg loss:0.013021, Avg acc:0.998437
+Epoch: 25 batch_id:340 lr:0.000010 Train Avg loss:0.012943, Avg acc:0.998346
+Epoch: 25 batch_id:360 lr:0.000010 Train Avg loss:0.012939, Avg acc:0.998264
+Epoch: 25 batch_id:380 lr:0.000010 Train Avg loss:0.013335, Avg acc:0.998026
+Epoch: 25 batch_id:400 lr:0.000010 Train Avg loss:0.013265, Avg acc:0.997969
+Epoch: 25 batch_id:420 lr:0.000010 Train Avg loss:0.013123, Avg acc:0.998065
+Epoch: 25 batch_id:440 lr:0.000010 Train Avg loss:0.013196, Avg acc:0.998011
+Epoch: 25 batch_id:460 lr:0.000010 Train Avg loss:0.013232, Avg acc:0.997962
+Epoch: 25 batch_id:480 lr:0.000010 Train Avg loss:0.013192, Avg acc:0.998047
+Epoch: 25 batch_id:500 lr:0.000010 Train Avg loss:0.012935, Avg acc:0.998125
+Epoch: 25 batch_id:520 lr:0.000010 Train Avg loss:0.012878, Avg acc:0.998197
+Epoch: 25 batch_id:540 lr:0.000010 Train Avg loss:0.013338, Avg acc:0.998032
+Epoch: 25 batch_id:560 lr:0.000010 Train Avg loss:0.013133, Avg acc:0.998103
+Epoch: 25 batch_id:580 lr:0.000010 Train Avg loss:0.012835, Avg acc:0.998168
+Epoch: 25 lr: 0.000010 Train Avg loss:0.012661, Avg acc:0.998217
+Epoch 25: batch_id:20 Validate Avg loss:0.365875, Avg acc:0.909375
+Epoch 25: batch_id:40 Validate Avg loss:0.307248, Avg acc:0.918750
+Epoch 25: batch_id:60 Validate Avg loss:0.296852, Avg acc:0.921875
+Epoch 25: batch_id:80 Validate Avg loss:0.296848, Avg acc:0.921094
+Epoch 25: batch_id:100 Validate Avg loss:0.307659, Avg acc:0.917500
+Epoch 25: batch_id:120 Validate Avg loss:0.293994, Avg acc:0.923438
+Epoch 25: batch_id:140 Validate Avg loss:0.290764, Avg acc:0.925000
+Epoch 25: batch_id:160 Validate Avg loss:0.302468, Avg acc:0.922656
+Epoch 25: batch_id:180 Validate Avg loss:0.300247, Avg acc:0.921181
+Epoch 25: batch_id:200 Validate Avg loss:0.308143, Avg acc:0.919375
+Epoch 25: batch_id:220 Validate Avg loss:0.305644, Avg acc:0.920170
+Epoch 25 Validate Avg loss:0.310754, Avg acc:0.918697
+- Validation Prec@1 saturates for 2 epochs. Best acc0.9210805084745762
+Epoch: 26 batch_id:20 lr:0.000010 Train Avg loss:0.011318, Avg acc:1.000000
+Epoch: 26 batch_id:40 lr:0.000010 Train Avg loss:0.008225, Avg acc:1.000000
+Epoch: 26 batch_id:60 lr:0.000010 Train Avg loss:0.008889, Avg acc:1.000000
+Epoch: 26 batch_id:80 lr:0.000010 Train Avg loss:0.008259, Avg acc:1.000000
+Epoch: 26 batch_id:100 lr:0.000010 Train Avg loss:0.009807, Avg acc:0.999375
+Epoch: 26 batch_id:120 lr:0.000010 Train Avg loss:0.010068, Avg acc:0.998958
+Epoch: 26 batch_id:140 lr:0.000010 Train Avg loss:0.009215, Avg acc:0.999107
+Epoch: 26 batch_id:160 lr:0.000010 Train Avg loss:0.008540, Avg acc:0.999219
+Epoch: 26 batch_id:180 lr:0.000010 Train Avg loss:0.010272, Avg acc:0.998611
+Epoch: 26 batch_id:200 lr:0.000010 Train Avg loss:0.010557, Avg acc:0.998750
+Epoch: 26 batch_id:220 lr:0.000010 Train Avg loss:0.010959, Avg acc:0.998580
+Epoch: 26 batch_id:240 lr:0.000010 Train Avg loss:0.010627, Avg acc:0.998698
+Epoch: 26 batch_id:260 lr:0.000010 Train Avg loss:0.010532, Avg acc:0.998798
+Epoch: 26 batch_id:280 lr:0.000010 Train Avg loss:0.010113, Avg acc:0.998884
+Epoch: 26 batch_id:300 lr:0.000010 Train Avg loss:0.010082, Avg acc:0.998958
+Epoch: 26 batch_id:320 lr:0.000010 Train Avg loss:0.010158, Avg acc:0.999023
+Epoch: 26 batch_id:340 lr:0.000010 Train Avg loss:0.010237, Avg acc:0.998897
+Epoch: 26 batch_id:360 lr:0.000010 Train Avg loss:0.010268, Avg acc:0.998785
+Epoch: 26 batch_id:380 lr:0.000010 Train Avg loss:0.010561, Avg acc:0.998684
+Epoch: 26 batch_id:400 lr:0.000010 Train Avg loss:0.010254, Avg acc:0.998750
+Epoch: 26 batch_id:420 lr:0.000010 Train Avg loss:0.011259, Avg acc:0.998512
+Epoch: 26 batch_id:440 lr:0.000010 Train Avg loss:0.011300, Avg acc:0.998437
+Epoch: 26 batch_id:460 lr:0.000010 Train Avg loss:0.011266, Avg acc:0.998370
+Epoch: 26 batch_id:480 lr:0.000010 Train Avg loss:0.011385, Avg acc:0.998307
+Epoch: 26 batch_id:500 lr:0.000010 Train Avg loss:0.011482, Avg acc:0.998375
+Epoch: 26 batch_id:520 lr:0.000010 Train Avg loss:0.011307, Avg acc:0.998437
+Epoch: 26 batch_id:540 lr:0.000010 Train Avg loss:0.011440, Avg acc:0.998380
+Epoch: 26 batch_id:560 lr:0.000010 Train Avg loss:0.011344, Avg acc:0.998437
+Epoch: 26 batch_id:580 lr:0.000010 Train Avg loss:0.011291, Avg acc:0.998384
+Epoch: 26 lr: 0.000010 Train Avg loss:0.011315, Avg acc:0.998427
+Epoch 26: batch_id:20 Validate Avg loss:0.321493, Avg acc:0.912500
+Epoch 26: batch_id:40 Validate Avg loss:0.286775, Avg acc:0.926562
+Epoch 26: batch_id:60 Validate Avg loss:0.281655, Avg acc:0.925000
+Epoch 26: batch_id:80 Validate Avg loss:0.284670, Avg acc:0.922656
+Epoch 26: batch_id:100 Validate Avg loss:0.296060, Avg acc:0.917500
+Epoch 26: batch_id:120 Validate Avg loss:0.281738, Avg acc:0.923958
+Epoch 26: batch_id:140 Validate Avg loss:0.279691, Avg acc:0.925000
+Epoch 26: batch_id:160 Validate Avg loss:0.290980, Avg acc:0.922266
+Epoch 26: batch_id:180 Validate Avg loss:0.289692, Avg acc:0.922222
+Epoch 26: batch_id:200 Validate Avg loss:0.298231, Avg acc:0.920937
+Epoch 26: batch_id:220 Validate Avg loss:0.295514, Avg acc:0.921591
+Epoch 26 Validate Avg loss:0.301304, Avg acc:0.920286
+- Validation Prec@1 saturates for 3 epochs. Best acc0.9210805084745762
+Epoch: 27 batch_id:20 lr:0.000010 Train Avg loss:0.012393, Avg acc:0.996875
+Epoch: 27 batch_id:40 lr:0.000010 Train Avg loss:0.013243, Avg acc:0.996875
+Epoch: 27 batch_id:60 lr:0.000010 Train Avg loss:0.011593, Avg acc:0.997917
+Epoch: 27 batch_id:80 lr:0.000010 Train Avg loss:0.010692, Avg acc:0.998437
+Epoch: 27 batch_id:100 lr:0.000010 Train Avg loss:0.010181, Avg acc:0.998750
+Epoch: 27 batch_id:120 lr:0.000010 Train Avg loss:0.010170, Avg acc:0.998437
+Epoch: 27 batch_id:140 lr:0.000010 Train Avg loss:0.009961, Avg acc:0.998661
+Epoch: 27 batch_id:160 lr:0.000010 Train Avg loss:0.010851, Avg acc:0.998828
+Epoch: 27 batch_id:180 lr:0.000010 Train Avg loss:0.010550, Avg acc:0.998958
+Epoch: 27 batch_id:200 lr:0.000010 Train Avg loss:0.011741, Avg acc:0.998750
+Epoch: 27 batch_id:220 lr:0.000010 Train Avg loss:0.012074, Avg acc:0.998580
+Epoch: 27 batch_id:240 lr:0.000010 Train Avg loss:0.011589, Avg acc:0.998698
+Epoch: 27 batch_id:260 lr:0.000010 Train Avg loss:0.011327, Avg acc:0.998798
+Epoch: 27 batch_id:280 lr:0.000010 Train Avg loss:0.011207, Avg acc:0.998884
+Epoch: 27 batch_id:300 lr:0.000010 Train Avg loss:0.011264, Avg acc:0.998750
+Epoch: 27 batch_id:320 lr:0.000010 Train Avg loss:0.011211, Avg acc:0.998633
+Epoch: 27 batch_id:340 lr:0.000010 Train Avg loss:0.011292, Avg acc:0.998713
+Epoch: 27 batch_id:360 lr:0.000010 Train Avg loss:0.011503, Avg acc:0.998611
+Epoch: 27 batch_id:380 lr:0.000010 Train Avg loss:0.012140, Avg acc:0.998355
+Epoch: 27 batch_id:400 lr:0.000010 Train Avg loss:0.012092, Avg acc:0.998281
+Epoch: 27 batch_id:420 lr:0.000010 Train Avg loss:0.013096, Avg acc:0.997917
+Epoch: 27 batch_id:440 lr:0.000010 Train Avg loss:0.013533, Avg acc:0.997869
+Epoch: 27 batch_id:460 lr:0.000010 Train Avg loss:0.013350, Avg acc:0.997962
+Epoch: 27 batch_id:480 lr:0.000010 Train Avg loss:0.013231, Avg acc:0.998047
+Epoch: 27 batch_id:500 lr:0.000010 Train Avg loss:0.013005, Avg acc:0.998125
+Epoch: 27 batch_id:520 lr:0.000010 Train Avg loss:0.012690, Avg acc:0.998197
+Epoch: 27 batch_id:540 lr:0.000010 Train Avg loss:0.012647, Avg acc:0.998264
+Epoch: 27 batch_id:560 lr:0.000010 Train Avg loss:0.012383, Avg acc:0.998326
+Epoch: 27 batch_id:580 lr:0.000010 Train Avg loss:0.012387, Avg acc:0.998276
+Epoch: 27 lr: 0.000010 Train Avg loss:0.012530, Avg acc:0.998112
+Epoch 27: batch_id:20 Validate Avg loss:0.350049, Avg acc:0.909375
+Epoch 27: batch_id:40 Validate Avg loss:0.302363, Avg acc:0.915625
+Epoch 27: batch_id:60 Validate Avg loss:0.292771, Avg acc:0.919792
+Epoch 27: batch_id:80 Validate Avg loss:0.296875, Avg acc:0.917969
+Epoch 27: batch_id:100 Validate Avg loss:0.308505, Avg acc:0.914375
+Epoch 27: batch_id:120 Validate Avg loss:0.295272, Avg acc:0.921354
+Epoch 27: batch_id:140 Validate Avg loss:0.292843, Avg acc:0.923214
+Epoch 27: batch_id:160 Validate Avg loss:0.305142, Avg acc:0.921484
+Epoch 27: batch_id:180 Validate Avg loss:0.304263, Avg acc:0.920486
+Epoch 27: batch_id:200 Validate Avg loss:0.311590, Avg acc:0.919687
+Epoch 27: batch_id:220 Validate Avg loss:0.308822, Avg acc:0.920455
+Epoch 27 Validate Avg loss:0.313358, Avg acc:0.919227
+- Validation Prec@1 saturates for 4 epochs. Best acc0.9210805084745762
+Epoch: 28 batch_id:20 lr:0.000010 Train Avg loss:0.010578, Avg acc:1.000000
+Epoch: 28 batch_id:40 lr:0.000010 Train Avg loss:0.020074, Avg acc:0.995313
+Epoch: 28 batch_id:60 lr:0.000010 Train Avg loss:0.019921, Avg acc:0.996875
+Epoch: 28 batch_id:80 lr:0.000010 Train Avg loss:0.017127, Avg acc:0.997656
+Epoch: 28 batch_id:100 lr:0.000010 Train Avg loss:0.015876, Avg acc:0.998125
+Epoch: 28 batch_id:120 lr:0.000010 Train Avg loss:0.015774, Avg acc:0.997917
+Epoch: 28 batch_id:140 lr:0.000010 Train Avg loss:0.014548, Avg acc:0.998214
+Epoch: 28 batch_id:160 lr:0.000010 Train Avg loss:0.014244, Avg acc:0.998047
+Epoch: 28 batch_id:180 lr:0.000010 Train Avg loss:0.014092, Avg acc:0.998264
+Epoch: 28 batch_id:200 lr:0.000010 Train Avg loss:0.013395, Avg acc:0.998437
+Epoch: 28 batch_id:220 lr:0.000010 Train Avg loss:0.013250, Avg acc:0.998295
+Epoch: 28 batch_id:240 lr:0.000010 Train Avg loss:0.014141, Avg acc:0.998177
+Epoch: 28 batch_id:260 lr:0.000010 Train Avg loss:0.013606, Avg acc:0.998317
+Epoch: 28 batch_id:280 lr:0.000010 Train Avg loss:0.014109, Avg acc:0.998214
+Epoch: 28 batch_id:300 lr:0.000010 Train Avg loss:0.013969, Avg acc:0.998333
+Epoch: 28 batch_id:320 lr:0.000010 Train Avg loss:0.013831, Avg acc:0.998437
+Epoch: 28 batch_id:340 lr:0.000010 Train Avg loss:0.013941, Avg acc:0.998346
+Epoch: 28 batch_id:360 lr:0.000010 Train Avg loss:0.013686, Avg acc:0.998437
+Epoch: 28 batch_id:380 lr:0.000010 Train Avg loss:0.013312, Avg acc:0.998520
+Epoch: 28 batch_id:400 lr:0.000010 Train Avg loss:0.013022, Avg acc:0.998594
+Epoch: 28 batch_id:420 lr:0.000010 Train Avg loss:0.012845, Avg acc:0.998661
+Epoch: 28 batch_id:440 lr:0.000010 Train Avg loss:0.013027, Avg acc:0.998580
+Epoch: 28 batch_id:460 lr:0.000010 Train Avg loss:0.013203, Avg acc:0.998505
+Epoch: 28 batch_id:480 lr:0.000010 Train Avg loss:0.012935, Avg acc:0.998568
+Epoch: 28 batch_id:500 lr:0.000010 Train Avg loss:0.012942, Avg acc:0.998500
+Epoch: 28 batch_id:520 lr:0.000010 Train Avg loss:0.012712, Avg acc:0.998558
+Epoch: 28 batch_id:540 lr:0.000010 Train Avg loss:0.012413, Avg acc:0.998611
+Epoch: 28 batch_id:560 lr:0.000010 Train Avg loss:0.012161, Avg acc:0.998661
+Epoch: 28 batch_id:580 lr:0.000010 Train Avg loss:0.012475, Avg acc:0.998491
+Epoch: 28 lr: 0.000010 Train Avg loss:0.012432, Avg acc:0.998532
+Epoch 28: batch_id:20 Validate Avg loss:0.345548, Avg acc:0.918750
+Epoch 28: batch_id:40 Validate Avg loss:0.300623, Avg acc:0.921875
+Epoch 28: batch_id:60 Validate Avg loss:0.291956, Avg acc:0.923958
+Epoch 28: batch_id:80 Validate Avg loss:0.297033, Avg acc:0.922656
+Epoch 28: batch_id:100 Validate Avg loss:0.307939, Avg acc:0.918125
+Epoch 28: batch_id:120 Validate Avg loss:0.296241, Avg acc:0.922396
+Epoch 28: batch_id:140 Validate Avg loss:0.293007, Avg acc:0.923214
+Epoch 28: batch_id:160 Validate Avg loss:0.303316, Avg acc:0.922266
+Epoch 28: batch_id:180 Validate Avg loss:0.301967, Avg acc:0.921875
+Epoch 28: batch_id:200 Validate Avg loss:0.312506, Avg acc:0.919687
+Epoch 28: batch_id:220 Validate Avg loss:0.310827, Avg acc:0.920170
+Epoch 28 Validate Avg loss:0.316535, Avg acc:0.918432
+- Validation Prec@1 saturates for 5 epochs. Best acc0.9210805084745762
+learning rate decay by 0.1. 
+Epoch: 29 batch_id:20 lr:0.000001 Train Avg loss:0.013811, Avg acc:0.996875
+Epoch: 29 batch_id:40 lr:0.000001 Train Avg loss:0.018484, Avg acc:0.996875
+Epoch: 29 batch_id:60 lr:0.000001 Train Avg loss:0.015038, Avg acc:0.997917
+Epoch: 29 batch_id:80 lr:0.000001 Train Avg loss:0.018066, Avg acc:0.996875
+Epoch: 29 batch_id:100 lr:0.000001 Train Avg loss:0.020770, Avg acc:0.996875
+Epoch: 29 batch_id:120 lr:0.000001 Train Avg loss:0.018995, Avg acc:0.997396
+Epoch: 29 batch_id:140 lr:0.000001 Train Avg loss:0.017029, Avg acc:0.997768
+Epoch: 29 batch_id:160 lr:0.000001 Train Avg loss:0.015786, Avg acc:0.998047
+Epoch: 29 batch_id:180 lr:0.000001 Train Avg loss:0.016270, Avg acc:0.997917
+Epoch: 29 batch_id:200 lr:0.000001 Train Avg loss:0.015250, Avg acc:0.998125
+Epoch: 29 batch_id:220 lr:0.000001 Train Avg loss:0.015492, Avg acc:0.997727
+Epoch: 29 batch_id:240 lr:0.000001 Train Avg loss:0.015128, Avg acc:0.997917
+Epoch: 29 batch_id:260 lr:0.000001 Train Avg loss:0.014901, Avg acc:0.997837
+Epoch: 29 batch_id:280 lr:0.000001 Train Avg loss:0.014515, Avg acc:0.997991
+Epoch: 29 batch_id:300 lr:0.000001 Train Avg loss:0.013947, Avg acc:0.998125
+Epoch: 29 batch_id:320 lr:0.000001 Train Avg loss:0.013700, Avg acc:0.998047
+Epoch: 29 batch_id:340 lr:0.000001 Train Avg loss:0.013497, Avg acc:0.998162
+Epoch: 29 batch_id:360 lr:0.000001 Train Avg loss:0.013032, Avg acc:0.998264
+Epoch: 29 batch_id:380 lr:0.000001 Train Avg loss:0.012928, Avg acc:0.998355
+Epoch: 29 batch_id:400 lr:0.000001 Train Avg loss:0.013286, Avg acc:0.998281
+Epoch: 29 batch_id:420 lr:0.000001 Train Avg loss:0.013583, Avg acc:0.998065
+Epoch: 29 batch_id:440 lr:0.000001 Train Avg loss:0.013373, Avg acc:0.998153
+Epoch: 29 batch_id:460 lr:0.000001 Train Avg loss:0.013333, Avg acc:0.998234
+Epoch: 29 batch_id:480 lr:0.000001 Train Avg loss:0.013344, Avg acc:0.998177
+Epoch: 29 batch_id:500 lr:0.000001 Train Avg loss:0.013314, Avg acc:0.998125
+Epoch: 29 batch_id:520 lr:0.000001 Train Avg loss:0.013620, Avg acc:0.997957
+Epoch: 29 batch_id:540 lr:0.000001 Train Avg loss:0.013401, Avg acc:0.997917
+Epoch: 29 batch_id:560 lr:0.000001 Train Avg loss:0.013089, Avg acc:0.997991
+Epoch: 29 batch_id:580 lr:0.000001 Train Avg loss:0.013195, Avg acc:0.998060
+Epoch: 29 lr: 0.000001 Train Avg loss:0.013065, Avg acc:0.998112
+Epoch 29: batch_id:20 Validate Avg loss:0.338300, Avg acc:0.906250
+Epoch 29: batch_id:40 Validate Avg loss:0.295981, Avg acc:0.915625
+Epoch 29: batch_id:60 Validate Avg loss:0.287910, Avg acc:0.919792
+Epoch 29: batch_id:80 Validate Avg loss:0.289904, Avg acc:0.922656
+Epoch 29: batch_id:100 Validate Avg loss:0.301642, Avg acc:0.920625
+Epoch 29: batch_id:120 Validate Avg loss:0.287951, Avg acc:0.926042
+Epoch 29: batch_id:140 Validate Avg loss:0.286545, Avg acc:0.926786
+Epoch 29: batch_id:160 Validate Avg loss:0.298001, Avg acc:0.925000
+Epoch 29: batch_id:180 Validate Avg loss:0.297606, Avg acc:0.922917
+Epoch 29: batch_id:200 Validate Avg loss:0.305014, Avg acc:0.920312
+Epoch 29: batch_id:220 Validate Avg loss:0.302987, Avg acc:0.921591
+Epoch 29 Validate Avg loss:0.307737, Avg acc:0.919492
+- Validation Prec@1 saturates for 1 epochs. Best acc0.9210805084745762
