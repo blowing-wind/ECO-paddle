@@ -5,7 +5,7 @@ import threading
 
 src_path = 'data/UCF-101'
 label_name = os.listdir(src_path)
-label_dir = {}
+# label_dir = {}
 NUM_THREADS = 10
 
 def split(l, n):
@@ -40,7 +40,7 @@ def target(videos, class_src_path, idx):
 for index, label in enumerate(label_name):
     if label.startswith('.'):
         continue
-    label_dir[label] = index
+    # label_dir[label] = index
     class_src_path = os.path.join(src_path, label)
     class_save_path = os.path.join(src_path, label) + '_jpg'
     if not os.path.exists(class_save_path):
@@ -57,5 +57,5 @@ for index, label in enumerate(label_name):
     for thread in threads:
         thread.join()
 
-np.save('label_dir.npy', label_dir)
-print(label_dir)
+#np.save('label_dir.npy', label_dir)
+#print(label_dir)
